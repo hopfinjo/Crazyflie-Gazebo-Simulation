@@ -1,0 +1,432 @@
+PositionControllerNode published msg at Thu Aug  8 17:18:25 2024
+Thrust x: 6942.95
+Thrust y: 1.18497e-17
+Thrust z: -5.63563e-18
+PositionControllerNode published msg at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.96
+Thrust y: -5.31237e-18
+Thrust z: 1.15659e-17
+PositionControllerNode published msg at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.45
+Thrust y: -9.4708e-14
+Thrust z: 4.47626e-14
+PositionControllerNode published msg at Thu Aug  8 17:18:26 2024
+Thrust x: 6937.08
+Thrust y: -5.20388e-13
+Thrust z: 3.23586e-13
+PositionControllerNode published msg at Thu Aug  8 17:18:26 2024
+Thrust x: 6931.36
+Thrust y: -1.57661e-12
+Thrust z: 1.61289e-12
+PositionControllerNode published msg at Thu Aug  8 17:18:26 2024
+Thrust x: 6925.96
+Thrust y: -1.38857e-12
+Thrust z: 2.57285e-12
+PositionControllerNode published msg at Thu Aug  8 17:18:26 2024
+Thrust x: 6920.85
+Thrust y: 6.41204e-13
+Thrust z: 2.41907e-12
+PositionControllerNode published msg at Thu Aug  8 17:18:27 2024
+Thrust x: 6916.12
+Thrust y: 3.51121e-12
+Thrust z: 3.73275e-13
+PositionControllerNode published msg at Thu Aug  8 17:18:27 2024
+Thrust x: 6911.78
+Thrust y: 4.69122e-12
+Thrust z: -3.39382e-12
+PositionControllerNode published msg at Thu Aug  8 17:18:27 2024
+Thrust x: 6907.79
+Thrust y: 1.58632e-12
+Thrust z: -7.10992e-12
+PositionControllerNode published msg at Thu Aug  8 17:18:27 2024
+Thrust x: 6904.15
+Thrust y: -6.14821e-12
+Thrust z: -7.14394e-12
+PositionControllerNode published msg at Thu Aug  8 17:18:27 2024
+Thrust x: 6900.84
+Thrust y: -1.41998e-11
+Thrust z: 9.5667e-14
+PositionControllerNode published msg at Thu Aug  8 17:18:27 2024
+Thrust x: 6897.82
+Thrust y: -1.44194e-11
+Thrust z: 1.37978e-11
+PositionControllerNode published msg at Thu Aug  8 17:18:27 2024
+Thrust x: 6895.06
+Thrust y: -1.92857e-13
+Thrust z: 2.64306e-11
+PositionControllerNode published msg at Thu Aug  8 17:18:28 2024
+Thrust x: 6892.53
+Thrust y: 2.68584e-11
+Thrust z: 2.43873e-11
+PositionControllerNode published msg at Thu Aug  8 17:18:28 2024
+Thrust x: 6890.19
+Thrust y: 5.10617e-11
+Thrust z: -4.62107e-12
+PositionControllerNode published msg at Thu Aug  8 17:18:28 2024
+Thrust x: 6888.08
+Thrust y: 4.4171e-11
+Thrust z: -5.52495e-11
+PositionControllerNode published msg at Thu Aug  8 17:18:28 2024
+Thrust x: 6886.14
+Thrust y: -1.48215e-11
+Thrust z: -9.61754e-11
+PositionControllerNode published msg at Thu Aug  8 17:18:28 2024
+Thrust x: 6884.39
+Thrust y: -1.12128e-10
+Thrust z: -7.54536e-11
+PositionControllerNode published msg at Thu Aug  8 17:18:28 2024
+Thrust x: 6882.78
+Thrust y: -1.83737e-10
+Thrust z: 4.00352e-11
+PositionControllerNode published msg at Thu Aug  8 17:18:29 2024
+Thrust x: 6881.33
+Thrust y: -1.37064e-10
+Thrust z: 2.22088e-10
+PositionControllerNode published msg at Thu Aug  8 17:18:29 2024
+Thrust x: 6880
+Thrust y: 1.00519e-10
+Thrust z: 3.49536e-10
+PositionControllerNode published msg at Thu Aug  8 17:18:29 2024
+Thrust x: 6878.81
+Thrust y: 4.48073e-10
+Thrust z: 2.28337e-10
+PositionControllerNode published msg at Thu Aug  8 17:18:29 2024
+Thrust x: 6877.73
+Thrust y: 6.56904e-10
+Thrust z: -2.32401e-10
+PositionControllerNode published msg at Thu Aug  8 17:18:29 2024
+Thrust x: 6876.76
+Thrust y: 3.90159e-10
+Thrust z: -8.86456e-10
+PositionControllerNode published msg at Thu Aug  8 17:18:29 2024
+Thrust x: 6875.89
+Thrust y: -5.28026e-10
+Thrust z: -1.23585e-09
+PositionControllerNode published msg at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.12
+Thrust y: -1.75321e-09
+Thrust z: -6.43787e-10
+PositionControllerNode published msg at Thu Aug  8 17:18:30 2024
+Thrust x: 6874.42
+Thrust y: -2.32007e-09
+Thrust z: 1.17076e-09
+PositionControllerNode published msg at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.79
+Thrust y: -9.9737e-10
+Thrust z: 3.45003e-09
+PositionControllerNode published msg at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.25
+Thrust y: 2.47265e-09
+Thrust z: 4.27351e-09
+PositionControllerNode published msg at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.76
+Thrust y: 6.68349e-09
+Thrust z: 1.58919e-09
+PositionControllerNode published msg at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.33
+Thrust y: 2.07201e-09
+Thrust z: -1.0421e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:30 2024
+Thrust x: 6871.95
+Thrust y: 1.54653e-08
+Thrust z: -2.28738e-10
+PositionControllerNode published msg at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.63
+Thrust y: -8.96753e-09
+Thrust z: -1.60248e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.34
+Thrust y: -5.18592e-08
+Thrust z: -2.05563e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.11
+Thrust y: -5.02429e-08
+Thrust z: -1.66148e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.9
+Thrust y: -3.75742e-08
+Thrust z: -2.01444e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.74
+Thrust y: -3.2231e-09
+Thrust z: -4.39941e-09
+PositionControllerNode published msg at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.61
+Thrust y: 5.17754e-08
+Thrust z: 1.58178e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.5
+Thrust y: 3.46856e-08
+Thrust z: 1.79078e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.42
+Thrust y: 2.05698e-08
+Thrust z: -2.74722e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.37
+Thrust y: 1.74182e-08
+Thrust z: -2.05096e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.34
+Thrust y: 1.52044e-08
+Thrust z: -4.04927e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.32
+Thrust y: -1.20729e-08
+Thrust z: -3.12116e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.33
+Thrust y: -1.45738e-08
+Thrust z: -2.98231e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.35
+Thrust y: 7.75328e-09
+Thrust z: -2.88557e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.39
+Thrust y: 2.6397e-08
+Thrust z: -3.8444e-09
+PositionControllerNode published msg at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.43
+Thrust y: 2.47875e-08
+Thrust z: -2.47597e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.49
+Thrust y: 4.84465e-08
+Thrust z: -4.09799e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.56
+Thrust y: 4.37927e-08
+Thrust z: -5.66742e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.64
+Thrust y: -2.78104e-08
+Thrust z: -5.04446e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.73
+Thrust y: -8.61984e-09
+Thrust z: -3.96987e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.83
+Thrust y: -3.76432e-08
+Thrust z: -4.55104e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.93
+Thrust y: -2.37388e-08
+Thrust z: 3.32226e-09
+PositionControllerNode published msg at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.04
+Thrust y: -2.18035e-08
+Thrust z: 8.68131e-09
+PositionControllerNode published msg at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.15
+Thrust y: 1.69948e-08
+Thrust z: -2.19663e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.26
+Thrust y: 1.03472e-08
+Thrust z: -1.29433e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.38
+Thrust y: 4.06368e-08
+Thrust z: -2.685e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.51
+Thrust y: -4.64041e-08
+Thrust z: -4.12763e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.63
+Thrust y: -3.46796e-08
+Thrust z: -4.27979e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.76
+Thrust y: 1.03448e-08
+Thrust z: -3.83552e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.89
+Thrust y: 6.27506e-08
+Thrust z: -2.03109e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.02
+Thrust y: 6.04527e-08
+Thrust z: -3.62458e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.15
+Thrust y: 5.60534e-08
+Thrust z: -3.09832e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.28
+Thrust y: 4.45112e-08
+Thrust z: -5.86426e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.41
+Thrust y: -2.017e-09
+Thrust z: -8.61912e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.54
+Thrust y: -7.74745e-08
+Thrust z: -6.7869e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.67
+Thrust y: -6.32945e-08
+Thrust z: -1.26394e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.81
+Thrust y: -5.47579e-08
+Thrust z: -3.04796e-09
+PositionControllerNode published msg at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.94
+Thrust y: -7.09766e-08
+Thrust z: 9.70578e-09
+PositionControllerNode published msg at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.06
+Thrust y: -2.71968e-08
+Thrust z: 1.29234e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.19
+Thrust y: 6.86523e-08
+Thrust z: -1.44165e-08
+PositionControllerNode published msg at Thu Aug  8 17:18:37 2024
+Thrust x: 6873.32
+Thrust y: 6.73393e-08
+Thrust z: -3.07705e-08
+PositionControllerNode published msg at Tue Aug 20 17:46:42 2024
+Thrust x: 6942.95
+Thrust y: -8.45243e-18
+Thrust z: 1.06209e-17
+PositionControllerNode published msg at Tue Aug 20 17:46:42 2024
+Thrust x: 6942.96
+Thrust y: 7.77869e-18
+Thrust z: -5.49957e-18
+PositionControllerNode published msg at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.27
+Thrust y: 3.60133e-14
+Thrust z: 2.06048e-14
+PositionControllerNode published msg at Tue Aug 20 17:46:43 2024
+Thrust x: 6936.8
+Thrust y: 7.33211e-13
+Thrust z: -6.17588e-13
+PositionControllerNode published msg at Tue Aug 20 17:46:43 2024
+Thrust x: 6931.14
+Thrust y: 1.9341e-12
+Thrust z: -2.555e-12
+PositionControllerNode published msg at Tue Aug 20 17:46:44 2024
+Thrust x: 6925.73
+Thrust y: 1.41905e-12
+Thrust z: -3.79746e-12
+PositionControllerNode published msg at Tue Aug 20 17:46:44 2024
+Thrust x: 6920.65
+Thrust y: -1.42105e-12
+Thrust z: -3.14817e-12
+PositionControllerNode published msg at Tue Aug 20 17:46:44 2024
+Thrust x: 6915.97
+Thrust y: -5.02109e-12
+Thrust z: 2.49725e-13
+PositionControllerNode published msg at Tue Aug 20 17:46:44 2024
+Thrust x: 6911.61
+Thrust y: -5.82082e-12
+Thrust z: 5.74675e-12
+PositionControllerNode published msg at Tue Aug 20 17:46:45 2024
+Thrust x: 6907.7
+Thrust y: -7.59505e-13
+Thrust z: 1.01124e-11
+PositionControllerNode published msg at Tue Aug 20 17:46:45 2024
+Thrust x: 6904.08
+Thrust y: 9.97595e-12
+Thrust z: 8.65786e-12
+PositionControllerNode published msg at Tue Aug 20 17:46:45 2024
+Thrust x: 6900.8
+Thrust y: 1.96538e-11
+Thrust z: -2.75641e-12
+PositionControllerNode published msg at Tue Aug 20 17:46:45 2024
+Thrust x: 6897.72
+Thrust y: 1.72424e-11
+Thrust z: -2.19806e-11
+PositionControllerNode published msg at Tue Aug 20 17:46:46 2024
+Thrust x: 6894.97
+Thrust y: -4.73545e-12
+Thrust z: -3.6546e-11
+PositionControllerNode published msg at Tue Aug 20 17:46:46 2024
+Thrust x: 6892.4
+Thrust y: -4.25026e-11
+Thrust z: -2.81909e-11
+PositionControllerNode published msg at Tue Aug 20 17:46:46 2024
+Thrust x: 6890.08
+Thrust y: -6.98831e-11
+Thrust z: 1.65347e-11
+PositionControllerNode published msg at Tue Aug 20 17:46:46 2024
+Thrust x: 6887.95
+Thrust y: -4.96856e-11
+Thrust z: 8.59741e-11
+PositionControllerNode published msg at Tue Aug 20 17:46:47 2024
+Thrust x: 6886.04
+Thrust y: 3.96668e-11
+Thrust z: 1.30469e-10
+PositionControllerNode published msg at Tue Aug 20 17:46:47 2024
+Thrust x: 6884.27
+Thrust y: 1.71975e-10
+Thrust z: 8.12164e-11
+PositionControllerNode published msg at Tue Aug 20 17:46:47 2024
+Thrust x: 6882.69
+Thrust y: 2.46523e-10
+Thrust z: -9.22823e-11
+PositionControllerNode published msg at Tue Aug 20 17:46:47 2024
+Thrust x: 6881.26
+Thrust y: 1.45734e-10
+Thrust z: -3.34624e-10
+PositionControllerNode published msg at Tue Aug 20 17:46:48 2024
+Thrust x: 6879.93
+Thrust y: -2.12878e-10
+Thrust z: -4.64821e-10
+PositionControllerNode published msg at Tue Aug 20 17:46:48 2024
+Thrust x: 6878.75
+Thrust y: -6.67417e-10
+Thrust z: -2.27768e-10
+PositionControllerNode published msg at Tue Aug 20 17:46:48 2024
+Thrust x: 6877.67
+Thrust y: -8.63122e-10
+Thrust z: 4.6203e-10
+PositionControllerNode published msg at Tue Aug 20 17:46:49 2024
+Thrust x: 6876.71
+Thrust y: -3.55e-10
+Thrust z: 1.31339e-09
+PositionControllerNode published msg at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.85
+Thrust y: 9.78021e-10
+Thrust z: 1.60772e-09
+PositionControllerNode published msg at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.07
+Thrust y: 2.55696e-09
+Thrust z: 5.44208e-10
+PositionControllerNode published msg at Tue Aug 20 17:46:49 2024
+Thrust x: 6874.37
+Thrust y: 2.97775e-09
+Thrust z: -2.11238e-09
+PositionControllerNode published msg at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.76
+Thrust y: 6.98164e-10
+Thrust z: -4.98834e-09
+PositionControllerNode published msg at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.2
+Thrust y: -4.40551e-09
+Thrust z: -5.39374e-09
+PositionControllerNode published msg at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.72
+Thrust y: -9.60824e-09
+Thrust z: -7.92375e-10
+PositionControllerNode published msg at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.29
+Thrust y: -9.89586e-09
+Thrust z: 9.14935e-09
+PositionControllerNode published msg at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.92
+Thrust y: 1.07623e-08
+Thrust z: 1.75104e-08
+PositionControllerNode published msg at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.6
+Thrust y: -1.44915e-08
+Thrust z: 1.57082e-08
+PositionControllerNode published msg at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.33
+Thrust y: 3.90859e-08
+Thrust z: -6.60095e-10

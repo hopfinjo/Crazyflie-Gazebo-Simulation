@@ -1,0 +1,4388 @@
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 6942.95
+Theta: 1.18497e-17
+phi: -5.63563e-18
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:25 2024
+Thrust x: 6942.95
+Theta: 1.18497e-17
+phi: -5.63563e-18
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.95
+Theta: 1.18497e-17
+phi: -5.63563e-18
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.95
+Theta: 1.18497e-17
+phi: -5.63563e-18
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.95
+Theta: 1.18497e-17
+phi: -5.63563e-18
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.95
+Theta: 1.18497e-17
+phi: -5.63563e-18
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.95
+Theta: 1.18497e-17
+phi: -5.63563e-18
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.95
+Theta: 1.18497e-17
+phi: -5.63563e-18
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.95
+Theta: 1.18497e-17
+phi: -5.63563e-18
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.96
+Theta: -5.31237e-18
+phi: 1.15659e-17
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.96
+Theta: -5.31237e-18
+phi: 1.15659e-17
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.96
+Theta: -5.31237e-18
+phi: 1.15659e-17
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.96
+Theta: -5.31237e-18
+phi: 1.15659e-17
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.96
+Theta: -5.31237e-18
+phi: 1.15659e-17
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.96
+Theta: -5.31237e-18
+phi: 1.15659e-17
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.96
+Theta: -5.31237e-18
+phi: 1.15659e-17
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.96
+Theta: -5.31237e-18
+phi: 1.15659e-17
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.96
+Theta: -5.31237e-18
+phi: 1.15659e-17
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.96
+Theta: -5.31237e-18
+phi: 1.15659e-17
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.45
+Theta: -9.4708e-14
+phi: 4.47626e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.45
+Theta: -9.4708e-14
+phi: 4.47626e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.45
+Theta: -9.4708e-14
+phi: 4.47626e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.45
+Theta: -9.4708e-14
+phi: 4.47626e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.45
+Theta: -9.4708e-14
+phi: 4.47626e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.45
+Theta: -9.4708e-14
+phi: 4.47626e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.45
+Theta: -9.4708e-14
+phi: 4.47626e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.45
+Theta: -9.4708e-14
+phi: 4.47626e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.45
+Theta: -9.4708e-14
+phi: 4.47626e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6942.45
+Theta: -9.4708e-14
+phi: 4.47626e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6937.08
+Theta: -5.20388e-13
+phi: 3.23586e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6937.08
+Theta: -5.20388e-13
+phi: 3.23586e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6937.08
+Theta: -5.20388e-13
+phi: 3.23586e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6937.08
+Theta: -5.20388e-13
+phi: 3.23586e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6937.08
+Theta: -5.20388e-13
+phi: 3.23586e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6937.08
+Theta: -5.20388e-13
+phi: 3.23586e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6937.08
+Theta: -5.20388e-13
+phi: 3.23586e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6937.08
+Theta: -5.20388e-13
+phi: 3.23586e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6937.08
+Theta: -5.20388e-13
+phi: 3.23586e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6937.08
+Theta: -5.20388e-13
+phi: 3.23586e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6937.08
+Theta: -5.20388e-13
+phi: 3.23586e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6931.36
+Theta: -1.57661e-12
+phi: 1.61289e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6931.36
+Theta: -1.57661e-12
+phi: 1.61289e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6931.36
+Theta: -1.57661e-12
+phi: 1.61289e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6931.36
+Theta: -1.57661e-12
+phi: 1.61289e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6931.36
+Theta: -1.57661e-12
+phi: 1.61289e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6931.36
+Theta: -1.57661e-12
+phi: 1.61289e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6931.36
+Theta: -1.57661e-12
+phi: 1.61289e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6931.36
+Theta: -1.57661e-12
+phi: 1.61289e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6931.36
+Theta: -1.57661e-12
+phi: 1.61289e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6931.36
+Theta: -1.57661e-12
+phi: 1.61289e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6925.96
+Theta: -1.38857e-12
+phi: 2.57285e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6925.96
+Theta: -1.38857e-12
+phi: 2.57285e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6925.96
+Theta: -1.38857e-12
+phi: 2.57285e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6925.96
+Theta: -1.38857e-12
+phi: 2.57285e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6925.96
+Theta: -1.38857e-12
+phi: 2.57285e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6925.96
+Theta: -1.38857e-12
+phi: 2.57285e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6925.96
+Theta: -1.38857e-12
+phi: 2.57285e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6925.96
+Theta: -1.38857e-12
+phi: 2.57285e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6925.96
+Theta: -1.38857e-12
+phi: 2.57285e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6925.96
+Theta: -1.38857e-12
+phi: 2.57285e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6920.85
+Theta: 6.41204e-13
+phi: 2.41907e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6920.85
+Theta: 6.41204e-13
+phi: 2.41907e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6920.85
+Theta: 6.41204e-13
+phi: 2.41907e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:26 2024
+Thrust x: 6920.85
+Theta: 6.41204e-13
+phi: 2.41907e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6920.85
+Theta: 6.41204e-13
+phi: 2.41907e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6920.85
+Theta: 6.41204e-13
+phi: 2.41907e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6920.85
+Theta: 6.41204e-13
+phi: 2.41907e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6920.85
+Theta: 6.41204e-13
+phi: 2.41907e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6920.85
+Theta: 6.41204e-13
+phi: 2.41907e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6916.12
+Theta: 3.51121e-12
+phi: 3.73275e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6916.12
+Theta: 3.51121e-12
+phi: 3.73275e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6916.12
+Theta: 3.51121e-12
+phi: 3.73275e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6916.12
+Theta: 3.51121e-12
+phi: 3.73275e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6916.12
+Theta: 3.51121e-12
+phi: 3.73275e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6916.12
+Theta: 3.51121e-12
+phi: 3.73275e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6916.12
+Theta: 3.51121e-12
+phi: 3.73275e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6916.12
+Theta: 3.51121e-12
+phi: 3.73275e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6916.12
+Theta: 3.51121e-12
+phi: 3.73275e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6916.12
+Theta: 3.51121e-12
+phi: 3.73275e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6916.12
+Theta: 3.51121e-12
+phi: 3.73275e-13
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6911.78
+Theta: 4.69122e-12
+phi: -3.39382e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6911.78
+Theta: 4.69122e-12
+phi: -3.39382e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6911.78
+Theta: 4.69122e-12
+phi: -3.39382e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6911.78
+Theta: 4.69122e-12
+phi: -3.39382e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6911.78
+Theta: 4.69122e-12
+phi: -3.39382e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6911.78
+Theta: 4.69122e-12
+phi: -3.39382e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6911.78
+Theta: 4.69122e-12
+phi: -3.39382e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6911.78
+Theta: 4.69122e-12
+phi: -3.39382e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6911.78
+Theta: 4.69122e-12
+phi: -3.39382e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6907.79
+Theta: 1.58632e-12
+phi: -7.10992e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6907.79
+Theta: 1.58632e-12
+phi: -7.10992e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6907.79
+Theta: 1.58632e-12
+phi: -7.10992e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6907.79
+Theta: 1.58632e-12
+phi: -7.10992e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6907.79
+Theta: 1.58632e-12
+phi: -7.10992e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6907.79
+Theta: 1.58632e-12
+phi: -7.10992e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6907.79
+Theta: 1.58632e-12
+phi: -7.10992e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6907.79
+Theta: 1.58632e-12
+phi: -7.10992e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6907.79
+Theta: 1.58632e-12
+phi: -7.10992e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6907.79
+Theta: 1.58632e-12
+phi: -7.10992e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6904.15
+Theta: -6.14821e-12
+phi: -7.14394e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6904.15
+Theta: -6.14821e-12
+phi: -7.14394e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6904.15
+Theta: -6.14821e-12
+phi: -7.14394e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6904.15
+Theta: -6.14821e-12
+phi: -7.14394e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6904.15
+Theta: -6.14821e-12
+phi: -7.14394e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6904.15
+Theta: -6.14821e-12
+phi: -7.14394e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6904.15
+Theta: -6.14821e-12
+phi: -7.14394e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6904.15
+Theta: -6.14821e-12
+phi: -7.14394e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6904.15
+Theta: -6.14821e-12
+phi: -7.14394e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6904.15
+Theta: -6.14821e-12
+phi: -7.14394e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6900.84
+Theta: -1.41998e-11
+phi: 9.5667e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6900.84
+Theta: -1.41998e-11
+phi: 9.5667e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6900.84
+Theta: -1.41998e-11
+phi: 9.5667e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6900.84
+Theta: -1.41998e-11
+phi: 9.5667e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6900.84
+Theta: -1.41998e-11
+phi: 9.5667e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6900.84
+Theta: -1.41998e-11
+phi: 9.5667e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6900.84
+Theta: -1.41998e-11
+phi: 9.5667e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6900.84
+Theta: -1.41998e-11
+phi: 9.5667e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6900.84
+Theta: -1.41998e-11
+phi: 9.5667e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6900.84
+Theta: -1.41998e-11
+phi: 9.5667e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6900.84
+Theta: -1.41998e-11
+phi: 9.5667e-14
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6897.82
+Theta: -1.44194e-11
+phi: 1.37978e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6897.82
+Theta: -1.44194e-11
+phi: 1.37978e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6897.82
+Theta: -1.44194e-11
+phi: 1.37978e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6897.82
+Theta: -1.44194e-11
+phi: 1.37978e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6897.82
+Theta: -1.44194e-11
+phi: 1.37978e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6897.82
+Theta: -1.44194e-11
+phi: 1.37978e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6897.82
+Theta: -1.44194e-11
+phi: 1.37978e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6897.82
+Theta: -1.44194e-11
+phi: 1.37978e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6897.82
+Theta: -1.44194e-11
+phi: 1.37978e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:27 2024
+Thrust x: 6895.06
+Theta: -1.92857e-13
+phi: 2.64306e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6895.06
+Theta: -1.92857e-13
+phi: 2.64306e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6895.06
+Theta: -1.92857e-13
+phi: 2.64306e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6895.06
+Theta: -1.92857e-13
+phi: 2.64306e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6895.06
+Theta: -1.92857e-13
+phi: 2.64306e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6895.06
+Theta: -1.92857e-13
+phi: 2.64306e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6895.06
+Theta: -1.92857e-13
+phi: 2.64306e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6895.06
+Theta: -1.92857e-13
+phi: 2.64306e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6895.06
+Theta: -1.92857e-13
+phi: 2.64306e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6895.06
+Theta: -1.92857e-13
+phi: 2.64306e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6892.53
+Theta: 2.68584e-11
+phi: 2.43873e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6892.53
+Theta: 2.68584e-11
+phi: 2.43873e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6892.53
+Theta: 2.68584e-11
+phi: 2.43873e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6892.53
+Theta: 2.68584e-11
+phi: 2.43873e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6892.53
+Theta: 2.68584e-11
+phi: 2.43873e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6892.53
+Theta: 2.68584e-11
+phi: 2.43873e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6892.53
+Theta: 2.68584e-11
+phi: 2.43873e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6892.53
+Theta: 2.68584e-11
+phi: 2.43873e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6892.53
+Theta: 2.68584e-11
+phi: 2.43873e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6892.53
+Theta: 2.68584e-11
+phi: 2.43873e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6892.53
+Theta: 2.68584e-11
+phi: 2.43873e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6890.19
+Theta: 5.10617e-11
+phi: -4.62107e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6890.19
+Theta: 5.10617e-11
+phi: -4.62107e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6890.19
+Theta: 5.10617e-11
+phi: -4.62107e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6890.19
+Theta: 5.10617e-11
+phi: -4.62107e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6890.19
+Theta: 5.10617e-11
+phi: -4.62107e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6890.19
+Theta: 5.10617e-11
+phi: -4.62107e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6890.19
+Theta: 5.10617e-11
+phi: -4.62107e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6890.19
+Theta: 5.10617e-11
+phi: -4.62107e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6890.19
+Theta: 5.10617e-11
+phi: -4.62107e-12
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6888.08
+Theta: 4.4171e-11
+phi: -5.52495e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6888.08
+Theta: 4.4171e-11
+phi: -5.52495e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6888.08
+Theta: 4.4171e-11
+phi: -5.52495e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6888.08
+Theta: 4.4171e-11
+phi: -5.52495e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6888.08
+Theta: 4.4171e-11
+phi: -5.52495e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6888.08
+Theta: 4.4171e-11
+phi: -5.52495e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6888.08
+Theta: 4.4171e-11
+phi: -5.52495e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6888.08
+Theta: 4.4171e-11
+phi: -5.52495e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6888.08
+Theta: 4.4171e-11
+phi: -5.52495e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6888.08
+Theta: 4.4171e-11
+phi: -5.52495e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6888.08
+Theta: 4.4171e-11
+phi: -5.52495e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6886.14
+Theta: -1.48215e-11
+phi: -9.61754e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6886.14
+Theta: -1.48215e-11
+phi: -9.61754e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6886.14
+Theta: -1.48215e-11
+phi: -9.61754e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6886.14
+Theta: -1.48215e-11
+phi: -9.61754e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6886.14
+Theta: -1.48215e-11
+phi: -9.61754e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6886.14
+Theta: -1.48215e-11
+phi: -9.61754e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6886.14
+Theta: -1.48215e-11
+phi: -9.61754e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6886.14
+Theta: -1.48215e-11
+phi: -9.61754e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6886.14
+Theta: -1.48215e-11
+phi: -9.61754e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6886.14
+Theta: -1.48215e-11
+phi: -9.61754e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6884.39
+Theta: -1.12128e-10
+phi: -7.54536e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6884.39
+Theta: -1.12128e-10
+phi: -7.54536e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6884.39
+Theta: -1.12128e-10
+phi: -7.54536e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6884.39
+Theta: -1.12128e-10
+phi: -7.54536e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6884.39
+Theta: -1.12128e-10
+phi: -7.54536e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6884.39
+Theta: -1.12128e-10
+phi: -7.54536e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6884.39
+Theta: -1.12128e-10
+phi: -7.54536e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6884.39
+Theta: -1.12128e-10
+phi: -7.54536e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6884.39
+Theta: -1.12128e-10
+phi: -7.54536e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6884.39
+Theta: -1.12128e-10
+phi: -7.54536e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6882.78
+Theta: -1.83737e-10
+phi: 4.00352e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6882.78
+Theta: -1.83737e-10
+phi: 4.00352e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:28 2024
+Thrust x: 6882.78
+Theta: -1.83737e-10
+phi: 4.00352e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6882.78
+Theta: -1.83737e-10
+phi: 4.00352e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6882.78
+Theta: -1.83737e-10
+phi: 4.00352e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6882.78
+Theta: -1.83737e-10
+phi: 4.00352e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6882.78
+Theta: -1.83737e-10
+phi: 4.00352e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6882.78
+Theta: -1.83737e-10
+phi: 4.00352e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6882.78
+Theta: -1.83737e-10
+phi: 4.00352e-11
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6881.33
+Theta: -1.37064e-10
+phi: 2.22088e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6881.33
+Theta: -1.37064e-10
+phi: 2.22088e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6881.33
+Theta: -1.37064e-10
+phi: 2.22088e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6881.33
+Theta: -1.37064e-10
+phi: 2.22088e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6881.33
+Theta: -1.37064e-10
+phi: 2.22088e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6881.33
+Theta: -1.37064e-10
+phi: 2.22088e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6881.33
+Theta: -1.37064e-10
+phi: 2.22088e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6881.33
+Theta: -1.37064e-10
+phi: 2.22088e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6881.33
+Theta: -1.37064e-10
+phi: 2.22088e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6881.33
+Theta: -1.37064e-10
+phi: 2.22088e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6881.33
+Theta: -1.37064e-10
+phi: 2.22088e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6880
+Theta: 1.00519e-10
+phi: 3.49536e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6880
+Theta: 1.00519e-10
+phi: 3.49536e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6880
+Theta: 1.00519e-10
+phi: 3.49536e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6880
+Theta: 1.00519e-10
+phi: 3.49536e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6880
+Theta: 1.00519e-10
+phi: 3.49536e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6880
+Theta: 1.00519e-10
+phi: 3.49536e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6880
+Theta: 1.00519e-10
+phi: 3.49536e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6880
+Theta: 1.00519e-10
+phi: 3.49536e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6880
+Theta: 1.00519e-10
+phi: 3.49536e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6880
+Theta: 1.00519e-10
+phi: 3.49536e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6878.81
+Theta: 4.48073e-10
+phi: 2.28337e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6878.81
+Theta: 4.48073e-10
+phi: 2.28337e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6878.81
+Theta: 4.48073e-10
+phi: 2.28337e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6878.81
+Theta: 4.48073e-10
+phi: 2.28337e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6878.81
+Theta: 4.48073e-10
+phi: 2.28337e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6878.81
+Theta: 4.48073e-10
+phi: 2.28337e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6878.81
+Theta: 4.48073e-10
+phi: 2.28337e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6878.81
+Theta: 4.48073e-10
+phi: 2.28337e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6878.81
+Theta: 4.48073e-10
+phi: 2.28337e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6877.73
+Theta: 6.56904e-10
+phi: -2.32401e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6877.73
+Theta: 6.56904e-10
+phi: -2.32401e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6877.73
+Theta: 6.56904e-10
+phi: -2.32401e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6877.73
+Theta: 6.56904e-10
+phi: -2.32401e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6877.73
+Theta: 6.56904e-10
+phi: -2.32401e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6877.73
+Theta: 6.56904e-10
+phi: -2.32401e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6877.73
+Theta: 6.56904e-10
+phi: -2.32401e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6877.73
+Theta: 6.56904e-10
+phi: -2.32401e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6877.73
+Theta: 6.56904e-10
+phi: -2.32401e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6877.73
+Theta: 6.56904e-10
+phi: -2.32401e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6876.76
+Theta: 3.90159e-10
+phi: -8.86456e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6876.76
+Theta: 3.90159e-10
+phi: -8.86456e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6876.76
+Theta: 3.90159e-10
+phi: -8.86456e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6876.76
+Theta: 3.90159e-10
+phi: -8.86456e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6876.76
+Theta: 3.90159e-10
+phi: -8.86456e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6876.76
+Theta: 3.90159e-10
+phi: -8.86456e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6876.76
+Theta: 3.90159e-10
+phi: -8.86456e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6876.76
+Theta: 3.90159e-10
+phi: -8.86456e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6876.76
+Theta: 3.90159e-10
+phi: -8.86456e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6876.76
+Theta: 3.90159e-10
+phi: -8.86456e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6876.76
+Theta: 3.90159e-10
+phi: -8.86456e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6875.89
+Theta: -5.28026e-10
+phi: -1.23585e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6875.89
+Theta: -5.28026e-10
+phi: -1.23585e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6875.89
+Theta: -5.28026e-10
+phi: -1.23585e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6875.89
+Theta: -5.28026e-10
+phi: -1.23585e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6875.89
+Theta: -5.28026e-10
+phi: -1.23585e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:29 2024
+Thrust x: 6875.89
+Theta: -5.28026e-10
+phi: -1.23585e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.89
+Theta: -5.28026e-10
+phi: -1.23585e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.89
+Theta: -5.28026e-10
+phi: -1.23585e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.89
+Theta: -5.28026e-10
+phi: -1.23585e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.89
+Theta: -5.28026e-10
+phi: -1.23585e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.12
+Theta: -1.75321e-09
+phi: -6.43787e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.12
+Theta: -1.75321e-09
+phi: -6.43787e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.12
+Theta: -1.75321e-09
+phi: -6.43787e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.12
+Theta: -1.75321e-09
+phi: -6.43787e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.12
+Theta: -1.75321e-09
+phi: -6.43787e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.12
+Theta: -1.75321e-09
+phi: -6.43787e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.12
+Theta: -1.75321e-09
+phi: -6.43787e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.12
+Theta: -1.75321e-09
+phi: -6.43787e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6875.12
+Theta: -1.75321e-09
+phi: -6.43787e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6874.42
+Theta: -2.32007e-09
+phi: 1.17076e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6874.42
+Theta: -2.32007e-09
+phi: 1.17076e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6874.42
+Theta: -2.32007e-09
+phi: 1.17076e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6874.42
+Theta: -2.32007e-09
+phi: 1.17076e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6874.42
+Theta: -2.32007e-09
+phi: 1.17076e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6874.42
+Theta: -2.32007e-09
+phi: 1.17076e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6874.42
+Theta: -2.32007e-09
+phi: 1.17076e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6874.42
+Theta: -2.32007e-09
+phi: 1.17076e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6874.42
+Theta: -2.32007e-09
+phi: 1.17076e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6874.42
+Theta: -2.32007e-09
+phi: 1.17076e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.79
+Theta: -9.9737e-10
+phi: 3.45003e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.79
+Theta: -9.9737e-10
+phi: 3.45003e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.79
+Theta: -9.9737e-10
+phi: 3.45003e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.79
+Theta: -9.9737e-10
+phi: 3.45003e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.79
+Theta: -9.9737e-10
+phi: 3.45003e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.79
+Theta: -9.9737e-10
+phi: 3.45003e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.79
+Theta: -9.9737e-10
+phi: 3.45003e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.79
+Theta: -9.9737e-10
+phi: 3.45003e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.79
+Theta: -9.9737e-10
+phi: 3.45003e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.79
+Theta: -9.9737e-10
+phi: 3.45003e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.79
+Theta: -9.9737e-10
+phi: 3.45003e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.25
+Theta: 2.47265e-09
+phi: 4.27351e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.25
+Theta: 2.47265e-09
+phi: 4.27351e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.25
+Theta: 2.47265e-09
+phi: 4.27351e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.25
+Theta: 2.47265e-09
+phi: 4.27351e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.25
+Theta: 2.47265e-09
+phi: 4.27351e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.25
+Theta: 2.47265e-09
+phi: 4.27351e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.25
+Theta: 2.47265e-09
+phi: 4.27351e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.25
+Theta: 2.47265e-09
+phi: 4.27351e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.25
+Theta: 2.47265e-09
+phi: 4.27351e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6873.25
+Theta: 2.47265e-09
+phi: 4.27351e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.76
+Theta: 6.68349e-09
+phi: 1.58919e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.76
+Theta: 6.68349e-09
+phi: 1.58919e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.76
+Theta: 6.68349e-09
+phi: 1.58919e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.76
+Theta: 6.68349e-09
+phi: 1.58919e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.76
+Theta: 6.68349e-09
+phi: 1.58919e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.76
+Theta: 6.68349e-09
+phi: 1.58919e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.76
+Theta: 6.68349e-09
+phi: 1.58919e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.76
+Theta: 6.68349e-09
+phi: 1.58919e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.76
+Theta: 6.68349e-09
+phi: 1.58919e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.33
+Theta: 2.07201e-09
+phi: -1.0421e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.33
+Theta: 2.07201e-09
+phi: -1.0421e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.33
+Theta: 2.07201e-09
+phi: -1.0421e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.33
+Theta: 2.07201e-09
+phi: -1.0421e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.33
+Theta: 2.07201e-09
+phi: -1.0421e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.33
+Theta: 2.07201e-09
+phi: -1.0421e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.33
+Theta: 2.07201e-09
+phi: -1.0421e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.33
+Theta: 2.07201e-09
+phi: -1.0421e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.33
+Theta: 2.07201e-09
+phi: -1.0421e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.33
+Theta: 2.07201e-09
+phi: -1.0421e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:30 2024
+Thrust x: 6872.33
+Theta: 2.07201e-09
+phi: -1.0421e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.95
+Theta: 1.54653e-08
+phi: -2.28738e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.95
+Theta: 1.54653e-08
+phi: -2.28738e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.95
+Theta: 1.54653e-08
+phi: -2.28738e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.95
+Theta: 1.54653e-08
+phi: -2.28738e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.95
+Theta: 1.54653e-08
+phi: -2.28738e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.95
+Theta: 1.54653e-08
+phi: -2.28738e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.95
+Theta: 1.54653e-08
+phi: -2.28738e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.95
+Theta: 1.54653e-08
+phi: -2.28738e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.95
+Theta: 1.54653e-08
+phi: -2.28738e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.95
+Theta: 1.54653e-08
+phi: -2.28738e-10
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.63
+Theta: -8.96753e-09
+phi: -1.60248e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.63
+Theta: -8.96753e-09
+phi: -1.60248e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.63
+Theta: -8.96753e-09
+phi: -1.60248e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.63
+Theta: -8.96753e-09
+phi: -1.60248e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.63
+Theta: -8.96753e-09
+phi: -1.60248e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.63
+Theta: -8.96753e-09
+phi: -1.60248e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.63
+Theta: -8.96753e-09
+phi: -1.60248e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.63
+Theta: -8.96753e-09
+phi: -1.60248e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.63
+Theta: -8.96753e-09
+phi: -1.60248e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.63
+Theta: -8.96753e-09
+phi: -1.60248e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.34
+Theta: -5.18592e-08
+phi: -2.05563e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.34
+Theta: -5.18592e-08
+phi: -2.05563e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.34
+Theta: -5.18592e-08
+phi: -2.05563e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.34
+Theta: -5.18592e-08
+phi: -2.05563e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.34
+Theta: -5.18592e-08
+phi: -2.05563e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.34
+Theta: -5.18592e-08
+phi: -2.05563e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.34
+Theta: -5.18592e-08
+phi: -2.05563e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.34
+Theta: -5.18592e-08
+phi: -2.05563e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.34
+Theta: -5.18592e-08
+phi: -2.05563e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.11
+Theta: -5.02429e-08
+phi: -1.66148e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.11
+Theta: -5.02429e-08
+phi: -1.66148e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.11
+Theta: -5.02429e-08
+phi: -1.66148e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.11
+Theta: -5.02429e-08
+phi: -1.66148e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.11
+Theta: -5.02429e-08
+phi: -1.66148e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.11
+Theta: -5.02429e-08
+phi: -1.66148e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.11
+Theta: -5.02429e-08
+phi: -1.66148e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.11
+Theta: -5.02429e-08
+phi: -1.66148e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.11
+Theta: -5.02429e-08
+phi: -1.66148e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.11
+Theta: -5.02429e-08
+phi: -1.66148e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6871.11
+Theta: -5.02429e-08
+phi: -1.66148e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.9
+Theta: -3.75742e-08
+phi: -2.01444e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.9
+Theta: -3.75742e-08
+phi: -2.01444e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.9
+Theta: -3.75742e-08
+phi: -2.01444e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.9
+Theta: -3.75742e-08
+phi: -2.01444e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.9
+Theta: -3.75742e-08
+phi: -2.01444e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.9
+Theta: -3.75742e-08
+phi: -2.01444e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.9
+Theta: -3.75742e-08
+phi: -2.01444e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.9
+Theta: -3.75742e-08
+phi: -2.01444e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.9
+Theta: -3.75742e-08
+phi: -2.01444e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.74
+Theta: -3.2231e-09
+phi: -4.39941e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.74
+Theta: -3.2231e-09
+phi: -4.39941e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.74
+Theta: -3.2231e-09
+phi: -4.39941e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.74
+Theta: -3.2231e-09
+phi: -4.39941e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.74
+Theta: -3.2231e-09
+phi: -4.39941e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.74
+Theta: -3.2231e-09
+phi: -4.39941e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.74
+Theta: -3.2231e-09
+phi: -4.39941e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.74
+Theta: -3.2231e-09
+phi: -4.39941e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.74
+Theta: -3.2231e-09
+phi: -4.39941e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.74
+Theta: -3.2231e-09
+phi: -4.39941e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.74
+Theta: -3.2231e-09
+phi: -4.39941e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.61
+Theta: 5.17754e-08
+phi: 1.58178e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.61
+Theta: 5.17754e-08
+phi: 1.58178e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.61
+Theta: 5.17754e-08
+phi: 1.58178e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:31 2024
+Thrust x: 6870.61
+Theta: 5.17754e-08
+phi: 1.58178e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.61
+Theta: 5.17754e-08
+phi: 1.58178e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.61
+Theta: 5.17754e-08
+phi: 1.58178e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.61
+Theta: 5.17754e-08
+phi: 1.58178e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.61
+Theta: 5.17754e-08
+phi: 1.58178e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.61
+Theta: 5.17754e-08
+phi: 1.58178e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.5
+Theta: 3.46856e-08
+phi: 1.79078e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.5
+Theta: 3.46856e-08
+phi: 1.79078e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.5
+Theta: 3.46856e-08
+phi: 1.79078e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.5
+Theta: 3.46856e-08
+phi: 1.79078e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.5
+Theta: 3.46856e-08
+phi: 1.79078e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.5
+Theta: 3.46856e-08
+phi: 1.79078e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.5
+Theta: 3.46856e-08
+phi: 1.79078e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.5
+Theta: 3.46856e-08
+phi: 1.79078e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.5
+Theta: 3.46856e-08
+phi: 1.79078e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.5
+Theta: 3.46856e-08
+phi: 1.79078e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.5
+Theta: 3.46856e-08
+phi: 1.79078e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.42
+Theta: 2.05698e-08
+phi: -2.74722e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.42
+Theta: 2.05698e-08
+phi: -2.74722e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.42
+Theta: 2.05698e-08
+phi: -2.74722e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.42
+Theta: 2.05698e-08
+phi: -2.74722e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.42
+Theta: 2.05698e-08
+phi: -2.74722e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.42
+Theta: 2.05698e-08
+phi: -2.74722e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.42
+Theta: 2.05698e-08
+phi: -2.74722e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.42
+Theta: 2.05698e-08
+phi: -2.74722e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.42
+Theta: 2.05698e-08
+phi: -2.74722e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.42
+Theta: 2.05698e-08
+phi: -2.74722e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.37
+Theta: 1.74182e-08
+phi: -2.05096e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.37
+Theta: 1.74182e-08
+phi: -2.05096e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.37
+Theta: 1.74182e-08
+phi: -2.05096e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.37
+Theta: 1.74182e-08
+phi: -2.05096e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.37
+Theta: 1.74182e-08
+phi: -2.05096e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.37
+Theta: 1.74182e-08
+phi: -2.05096e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.37
+Theta: 1.74182e-08
+phi: -2.05096e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.37
+Theta: 1.74182e-08
+phi: -2.05096e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.37
+Theta: 1.74182e-08
+phi: -2.05096e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.37
+Theta: 1.74182e-08
+phi: -2.05096e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.34
+Theta: 1.52044e-08
+phi: -4.04927e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.34
+Theta: 1.52044e-08
+phi: -4.04927e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.34
+Theta: 1.52044e-08
+phi: -4.04927e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.34
+Theta: 1.52044e-08
+phi: -4.04927e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.34
+Theta: 1.52044e-08
+phi: -4.04927e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.34
+Theta: 1.52044e-08
+phi: -4.04927e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.34
+Theta: 1.52044e-08
+phi: -4.04927e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.34
+Theta: 1.52044e-08
+phi: -4.04927e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.34
+Theta: 1.52044e-08
+phi: -4.04927e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.34
+Theta: 1.52044e-08
+phi: -4.04927e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.32
+Theta: -1.20729e-08
+phi: -3.12116e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.32
+Theta: -1.20729e-08
+phi: -3.12116e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.32
+Theta: -1.20729e-08
+phi: -3.12116e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.32
+Theta: -1.20729e-08
+phi: -3.12116e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.32
+Theta: -1.20729e-08
+phi: -3.12116e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.32
+Theta: -1.20729e-08
+phi: -3.12116e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.32
+Theta: -1.20729e-08
+phi: -3.12116e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.32
+Theta: -1.20729e-08
+phi: -3.12116e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.32
+Theta: -1.20729e-08
+phi: -3.12116e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.33
+Theta: -1.45738e-08
+phi: -2.98231e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.33
+Theta: -1.45738e-08
+phi: -2.98231e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.33
+Theta: -1.45738e-08
+phi: -2.98231e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.33
+Theta: -1.45738e-08
+phi: -2.98231e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.33
+Theta: -1.45738e-08
+phi: -2.98231e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.33
+Theta: -1.45738e-08
+phi: -2.98231e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.33
+Theta: -1.45738e-08
+phi: -2.98231e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.33
+Theta: -1.45738e-08
+phi: -2.98231e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.33
+Theta: -1.45738e-08
+phi: -2.98231e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.33
+Theta: -1.45738e-08
+phi: -2.98231e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:32 2024
+Thrust x: 6870.35
+Theta: 7.75328e-09
+phi: -2.88557e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.35
+Theta: 7.75328e-09
+phi: -2.88557e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.35
+Theta: 7.75328e-09
+phi: -2.88557e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.35
+Theta: 7.75328e-09
+phi: -2.88557e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.35
+Theta: 7.75328e-09
+phi: -2.88557e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.35
+Theta: 7.75328e-09
+phi: -2.88557e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.35
+Theta: 7.75328e-09
+phi: -2.88557e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.35
+Theta: 7.75328e-09
+phi: -2.88557e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.35
+Theta: 7.75328e-09
+phi: -2.88557e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.35
+Theta: 7.75328e-09
+phi: -2.88557e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.35
+Theta: 7.75328e-09
+phi: -2.88557e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.39
+Theta: 2.6397e-08
+phi: -3.8444e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.39
+Theta: 2.6397e-08
+phi: -3.8444e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.39
+Theta: 2.6397e-08
+phi: -3.8444e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.39
+Theta: 2.6397e-08
+phi: -3.8444e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.39
+Theta: 2.6397e-08
+phi: -3.8444e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.39
+Theta: 2.6397e-08
+phi: -3.8444e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.39
+Theta: 2.6397e-08
+phi: -3.8444e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.39
+Theta: 2.6397e-08
+phi: -3.8444e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.39
+Theta: 2.6397e-08
+phi: -3.8444e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.43
+Theta: 2.47875e-08
+phi: -2.47597e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.43
+Theta: 2.47875e-08
+phi: -2.47597e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.43
+Theta: 2.47875e-08
+phi: -2.47597e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.43
+Theta: 2.47875e-08
+phi: -2.47597e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.43
+Theta: 2.47875e-08
+phi: -2.47597e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.43
+Theta: 2.47875e-08
+phi: -2.47597e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.43
+Theta: 2.47875e-08
+phi: -2.47597e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.43
+Theta: 2.47875e-08
+phi: -2.47597e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.43
+Theta: 2.47875e-08
+phi: -2.47597e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.43
+Theta: 2.47875e-08
+phi: -2.47597e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.43
+Theta: 2.47875e-08
+phi: -2.47597e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.49
+Theta: 4.84465e-08
+phi: -4.09799e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.49
+Theta: 4.84465e-08
+phi: -4.09799e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.49
+Theta: 4.84465e-08
+phi: -4.09799e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.49
+Theta: 4.84465e-08
+phi: -4.09799e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.49
+Theta: 4.84465e-08
+phi: -4.09799e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.49
+Theta: 4.84465e-08
+phi: -4.09799e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.49
+Theta: 4.84465e-08
+phi: -4.09799e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.49
+Theta: 4.84465e-08
+phi: -4.09799e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.49
+Theta: 4.84465e-08
+phi: -4.09799e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.49
+Theta: 4.84465e-08
+phi: -4.09799e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.56
+Theta: 4.37927e-08
+phi: -5.66742e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.56
+Theta: 4.37927e-08
+phi: -5.66742e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.56
+Theta: 4.37927e-08
+phi: -5.66742e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.56
+Theta: 4.37927e-08
+phi: -5.66742e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.56
+Theta: 4.37927e-08
+phi: -5.66742e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.56
+Theta: 4.37927e-08
+phi: -5.66742e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.56
+Theta: 4.37927e-08
+phi: -5.66742e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.56
+Theta: 4.37927e-08
+phi: -5.66742e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.56
+Theta: 4.37927e-08
+phi: -5.66742e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.56
+Theta: 4.37927e-08
+phi: -5.66742e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.64
+Theta: -2.78104e-08
+phi: -5.04446e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.64
+Theta: -2.78104e-08
+phi: -5.04446e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.64
+Theta: -2.78104e-08
+phi: -5.04446e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.64
+Theta: -2.78104e-08
+phi: -5.04446e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.64
+Theta: -2.78104e-08
+phi: -5.04446e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.64
+Theta: -2.78104e-08
+phi: -5.04446e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.64
+Theta: -2.78104e-08
+phi: -5.04446e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.64
+Theta: -2.78104e-08
+phi: -5.04446e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.64
+Theta: -2.78104e-08
+phi: -5.04446e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.73
+Theta: -8.61984e-09
+phi: -3.96987e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.73
+Theta: -8.61984e-09
+phi: -3.96987e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.73
+Theta: -8.61984e-09
+phi: -3.96987e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.73
+Theta: -8.61984e-09
+phi: -3.96987e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.73
+Theta: -8.61984e-09
+phi: -3.96987e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.73
+Theta: -8.61984e-09
+phi: -3.96987e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:33 2024
+Thrust x: 6870.73
+Theta: -8.61984e-09
+phi: -3.96987e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.73
+Theta: -8.61984e-09
+phi: -3.96987e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.73
+Theta: -8.61984e-09
+phi: -3.96987e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.73
+Theta: -8.61984e-09
+phi: -3.96987e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.73
+Theta: -8.61984e-09
+phi: -3.96987e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.83
+Theta: -3.76432e-08
+phi: -4.55104e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.83
+Theta: -3.76432e-08
+phi: -4.55104e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.83
+Theta: -3.76432e-08
+phi: -4.55104e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.83
+Theta: -3.76432e-08
+phi: -4.55104e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.83
+Theta: -3.76432e-08
+phi: -4.55104e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.83
+Theta: -3.76432e-08
+phi: -4.55104e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.83
+Theta: -3.76432e-08
+phi: -4.55104e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.83
+Theta: -3.76432e-08
+phi: -4.55104e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.83
+Theta: -3.76432e-08
+phi: -4.55104e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.93
+Theta: -2.37388e-08
+phi: 3.32226e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.93
+Theta: -2.37388e-08
+phi: 3.32226e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.93
+Theta: -2.37388e-08
+phi: 3.32226e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.93
+Theta: -2.37388e-08
+phi: 3.32226e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.93
+Theta: -2.37388e-08
+phi: 3.32226e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.93
+Theta: -2.37388e-08
+phi: 3.32226e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.93
+Theta: -2.37388e-08
+phi: 3.32226e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.93
+Theta: -2.37388e-08
+phi: 3.32226e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.93
+Theta: -2.37388e-08
+phi: 3.32226e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6870.93
+Theta: -2.37388e-08
+phi: 3.32226e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.04
+Theta: -2.18035e-08
+phi: 8.68131e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.04
+Theta: -2.18035e-08
+phi: 8.68131e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.04
+Theta: -2.18035e-08
+phi: 8.68131e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.04
+Theta: -2.18035e-08
+phi: 8.68131e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.04
+Theta: -2.18035e-08
+phi: 8.68131e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.04
+Theta: -2.18035e-08
+phi: 8.68131e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.04
+Theta: -2.18035e-08
+phi: 8.68131e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.04
+Theta: -2.18035e-08
+phi: 8.68131e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.04
+Theta: -2.18035e-08
+phi: 8.68131e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.04
+Theta: -2.18035e-08
+phi: 8.68131e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.04
+Theta: -2.18035e-08
+phi: 8.68131e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.15
+Theta: 1.69948e-08
+phi: -2.19663e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.15
+Theta: 1.69948e-08
+phi: -2.19663e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.15
+Theta: 1.69948e-08
+phi: -2.19663e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.15
+Theta: 1.69948e-08
+phi: -2.19663e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.15
+Theta: 1.69948e-08
+phi: -2.19663e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.15
+Theta: 1.69948e-08
+phi: -2.19663e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.15
+Theta: 1.69948e-08
+phi: -2.19663e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.15
+Theta: 1.69948e-08
+phi: -2.19663e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.15
+Theta: 1.69948e-08
+phi: -2.19663e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.26
+Theta: 1.03472e-08
+phi: -1.29433e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.26
+Theta: 1.03472e-08
+phi: -1.29433e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.26
+Theta: 1.03472e-08
+phi: -1.29433e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.26
+Theta: 1.03472e-08
+phi: -1.29433e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.26
+Theta: 1.03472e-08
+phi: -1.29433e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.26
+Theta: 1.03472e-08
+phi: -1.29433e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.26
+Theta: 1.03472e-08
+phi: -1.29433e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.26
+Theta: 1.03472e-08
+phi: -1.29433e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.26
+Theta: 1.03472e-08
+phi: -1.29433e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.26
+Theta: 1.03472e-08
+phi: -1.29433e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.38
+Theta: 4.06368e-08
+phi: -2.685e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.38
+Theta: 4.06368e-08
+phi: -2.685e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.38
+Theta: 4.06368e-08
+phi: -2.685e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.38
+Theta: 4.06368e-08
+phi: -2.685e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.38
+Theta: 4.06368e-08
+phi: -2.685e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.38
+Theta: 4.06368e-08
+phi: -2.685e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.38
+Theta: 4.06368e-08
+phi: -2.685e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.38
+Theta: 4.06368e-08
+phi: -2.685e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.38
+Theta: 4.06368e-08
+phi: -2.685e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.38
+Theta: 4.06368e-08
+phi: -2.685e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.38
+Theta: 4.06368e-08
+phi: -2.685e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.51
+Theta: -4.64041e-08
+phi: -4.12763e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.51
+Theta: -4.64041e-08
+phi: -4.12763e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:34 2024
+Thrust x: 6871.51
+Theta: -4.64041e-08
+phi: -4.12763e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.51
+Theta: -4.64041e-08
+phi: -4.12763e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.51
+Theta: -4.64041e-08
+phi: -4.12763e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.51
+Theta: -4.64041e-08
+phi: -4.12763e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.51
+Theta: -4.64041e-08
+phi: -4.12763e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.51
+Theta: -4.64041e-08
+phi: -4.12763e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.51
+Theta: -4.64041e-08
+phi: -4.12763e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.63
+Theta: -3.46796e-08
+phi: -4.27979e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.63
+Theta: -3.46796e-08
+phi: -4.27979e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.63
+Theta: -3.46796e-08
+phi: -4.27979e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.63
+Theta: -3.46796e-08
+phi: -4.27979e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.63
+Theta: -3.46796e-08
+phi: -4.27979e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.63
+Theta: -3.46796e-08
+phi: -4.27979e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.63
+Theta: -3.46796e-08
+phi: -4.27979e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.63
+Theta: -3.46796e-08
+phi: -4.27979e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.63
+Theta: -3.46796e-08
+phi: -4.27979e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.63
+Theta: -3.46796e-08
+phi: -4.27979e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.76
+Theta: 1.03448e-08
+phi: -3.83552e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.76
+Theta: 1.03448e-08
+phi: -3.83552e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.76
+Theta: 1.03448e-08
+phi: -3.83552e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.76
+Theta: 1.03448e-08
+phi: -3.83552e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.76
+Theta: 1.03448e-08
+phi: -3.83552e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.76
+Theta: 1.03448e-08
+phi: -3.83552e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.76
+Theta: 1.03448e-08
+phi: -3.83552e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.76
+Theta: 1.03448e-08
+phi: -3.83552e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.76
+Theta: 1.03448e-08
+phi: -3.83552e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.76
+Theta: 1.03448e-08
+phi: -3.83552e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.89
+Theta: 6.27506e-08
+phi: -2.03109e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.89
+Theta: 6.27506e-08
+phi: -2.03109e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.89
+Theta: 6.27506e-08
+phi: -2.03109e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.89
+Theta: 6.27506e-08
+phi: -2.03109e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.89
+Theta: 6.27506e-08
+phi: -2.03109e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.89
+Theta: 6.27506e-08
+phi: -2.03109e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.89
+Theta: 6.27506e-08
+phi: -2.03109e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.89
+Theta: 6.27506e-08
+phi: -2.03109e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.89
+Theta: 6.27506e-08
+phi: -2.03109e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.89
+Theta: 6.27506e-08
+phi: -2.03109e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6871.89
+Theta: 6.27506e-08
+phi: -2.03109e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.02
+Theta: 6.04527e-08
+phi: -3.62458e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.02
+Theta: 6.04527e-08
+phi: -3.62458e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.02
+Theta: 6.04527e-08
+phi: -3.62458e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.02
+Theta: 6.04527e-08
+phi: -3.62458e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.02
+Theta: 6.04527e-08
+phi: -3.62458e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.02
+Theta: 6.04527e-08
+phi: -3.62458e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.02
+Theta: 6.04527e-08
+phi: -3.62458e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.02
+Theta: 6.04527e-08
+phi: -3.62458e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.02
+Theta: 6.04527e-08
+phi: -3.62458e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.02
+Theta: 6.04527e-08
+phi: -3.62458e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.15
+Theta: 5.60534e-08
+phi: -3.09832e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.15
+Theta: 5.60534e-08
+phi: -3.09832e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.15
+Theta: 5.60534e-08
+phi: -3.09832e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.15
+Theta: 5.60534e-08
+phi: -3.09832e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.15
+Theta: 5.60534e-08
+phi: -3.09832e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.15
+Theta: 5.60534e-08
+phi: -3.09832e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.15
+Theta: 5.60534e-08
+phi: -3.09832e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.15
+Theta: 5.60534e-08
+phi: -3.09832e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.15
+Theta: 5.60534e-08
+phi: -3.09832e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.28
+Theta: 4.45112e-08
+phi: -5.86426e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.28
+Theta: 4.45112e-08
+phi: -5.86426e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.28
+Theta: 4.45112e-08
+phi: -5.86426e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.28
+Theta: 4.45112e-08
+phi: -5.86426e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.28
+Theta: 4.45112e-08
+phi: -5.86426e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.28
+Theta: 4.45112e-08
+phi: -5.86426e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.28
+Theta: 4.45112e-08
+phi: -5.86426e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.28
+Theta: 4.45112e-08
+phi: -5.86426e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:35 2024
+Thrust x: 6872.28
+Theta: 4.45112e-08
+phi: -5.86426e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.28
+Theta: 4.45112e-08
+phi: -5.86426e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.41
+Theta: -2.017e-09
+phi: -8.61912e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.41
+Theta: -2.017e-09
+phi: -8.61912e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.41
+Theta: -2.017e-09
+phi: -8.61912e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.41
+Theta: -2.017e-09
+phi: -8.61912e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.41
+Theta: -2.017e-09
+phi: -8.61912e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.41
+Theta: -2.017e-09
+phi: -8.61912e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.41
+Theta: -2.017e-09
+phi: -8.61912e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.41
+Theta: -2.017e-09
+phi: -8.61912e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.41
+Theta: -2.017e-09
+phi: -8.61912e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.41
+Theta: -2.017e-09
+phi: -8.61912e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.41
+Theta: -2.017e-09
+phi: -8.61912e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.54
+Theta: -7.74745e-08
+phi: -6.7869e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.54
+Theta: -7.74745e-08
+phi: -6.7869e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.54
+Theta: -7.74745e-08
+phi: -6.7869e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.54
+Theta: -7.74745e-08
+phi: -6.7869e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.54
+Theta: -7.74745e-08
+phi: -6.7869e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.54
+Theta: -7.74745e-08
+phi: -6.7869e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.54
+Theta: -7.74745e-08
+phi: -6.7869e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.54
+Theta: -7.74745e-08
+phi: -6.7869e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.54
+Theta: -7.74745e-08
+phi: -6.7869e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.54
+Theta: -7.74745e-08
+phi: -6.7869e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.67
+Theta: -6.32945e-08
+phi: -1.26394e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.67
+Theta: -6.32945e-08
+phi: -1.26394e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.67
+Theta: -6.32945e-08
+phi: -1.26394e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.67
+Theta: -6.32945e-08
+phi: -1.26394e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.67
+Theta: -6.32945e-08
+phi: -1.26394e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.67
+Theta: -6.32945e-08
+phi: -1.26394e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.67
+Theta: -6.32945e-08
+phi: -1.26394e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.67
+Theta: -6.32945e-08
+phi: -1.26394e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.67
+Theta: -6.32945e-08
+phi: -1.26394e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.81
+Theta: -5.47579e-08
+phi: -3.04796e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.81
+Theta: -5.47579e-08
+phi: -3.04796e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.81
+Theta: -5.47579e-08
+phi: -3.04796e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.81
+Theta: -5.47579e-08
+phi: -3.04796e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.81
+Theta: -5.47579e-08
+phi: -3.04796e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.81
+Theta: -5.47579e-08
+phi: -3.04796e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.81
+Theta: -5.47579e-08
+phi: -3.04796e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.81
+Theta: -5.47579e-08
+phi: -3.04796e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.81
+Theta: -5.47579e-08
+phi: -3.04796e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.81
+Theta: -5.47579e-08
+phi: -3.04796e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.94
+Theta: -7.09766e-08
+phi: 9.70578e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.94
+Theta: -7.09766e-08
+phi: 9.70578e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.94
+Theta: -7.09766e-08
+phi: 9.70578e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.94
+Theta: -7.09766e-08
+phi: 9.70578e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.94
+Theta: -7.09766e-08
+phi: 9.70578e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.94
+Theta: -7.09766e-08
+phi: 9.70578e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.94
+Theta: -7.09766e-08
+phi: 9.70578e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.94
+Theta: -7.09766e-08
+phi: 9.70578e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.94
+Theta: -7.09766e-08
+phi: 9.70578e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6872.94
+Theta: -7.09766e-08
+phi: 9.70578e-09
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.06
+Theta: -2.71968e-08
+phi: 1.29234e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.06
+Theta: -2.71968e-08
+phi: 1.29234e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.06
+Theta: -2.71968e-08
+phi: 1.29234e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.06
+Theta: -2.71968e-08
+phi: 1.29234e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.06
+Theta: -2.71968e-08
+phi: 1.29234e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.06
+Theta: -2.71968e-08
+phi: 1.29234e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.06
+Theta: -2.71968e-08
+phi: 1.29234e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.06
+Theta: -2.71968e-08
+phi: 1.29234e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.06
+Theta: -2.71968e-08
+phi: 1.29234e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.06
+Theta: -2.71968e-08
+phi: 1.29234e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.06
+Theta: -2.71968e-08
+phi: 1.29234e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:36 2024
+Thrust x: 6873.19
+Theta: 6.86523e-08
+phi: -1.44165e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:37 2024
+Thrust x: 6873.19
+Theta: 6.86523e-08
+phi: -1.44165e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:37 2024
+Thrust x: 6873.19
+Theta: 6.86523e-08
+phi: -1.44165e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:37 2024
+Thrust x: 6873.19
+Theta: 6.86523e-08
+phi: -1.44165e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:37 2024
+Thrust x: 6873.19
+Theta: 6.86523e-08
+phi: -1.44165e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:37 2024
+Thrust x: 6873.19
+Theta: 6.86523e-08
+phi: -1.44165e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:37 2024
+Thrust x: 6873.19
+Theta: 6.86523e-08
+phi: -1.44165e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:37 2024
+Thrust x: 6873.19
+Theta: 6.86523e-08
+phi: -1.44165e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:37 2024
+Thrust x: 6873.19
+Theta: 6.86523e-08
+phi: -1.44165e-08
+AttitudeControllerNode published rotorVelocities at Thu Aug  8 17:18:37 2024
+Thrust x: 6873.32
+Theta: 6.73393e-08
+phi: -3.07705e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 0
+Theta: 0
+phi: 0
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 6942.95
+Theta: -8.45243e-18
+phi: 1.06209e-17
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 6942.95
+Theta: -8.45243e-18
+phi: 1.06209e-17
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 6942.95
+Theta: -8.45243e-18
+phi: 1.06209e-17
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 6942.95
+Theta: -8.45243e-18
+phi: 1.06209e-17
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 6942.95
+Theta: -8.45243e-18
+phi: 1.06209e-17
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 6942.95
+Theta: -8.45243e-18
+phi: 1.06209e-17
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 6942.95
+Theta: -8.45243e-18
+phi: 1.06209e-17
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 6942.95
+Theta: -8.45243e-18
+phi: 1.06209e-17
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:42 2024
+Thrust x: 6942.95
+Theta: -8.45243e-18
+phi: 1.06209e-17
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.95
+Theta: -8.45243e-18
+phi: 1.06209e-17
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.96
+Theta: 7.77869e-18
+phi: -5.49957e-18
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.96
+Theta: 7.77869e-18
+phi: -5.49957e-18
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.96
+Theta: 7.77869e-18
+phi: -5.49957e-18
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.96
+Theta: 7.77869e-18
+phi: -5.49957e-18
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.96
+Theta: 7.77869e-18
+phi: -5.49957e-18
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.96
+Theta: 7.77869e-18
+phi: -5.49957e-18
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.96
+Theta: 7.77869e-18
+phi: -5.49957e-18
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.96
+Theta: 7.77869e-18
+phi: -5.49957e-18
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.96
+Theta: 7.77869e-18
+phi: -5.49957e-18
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.96
+Theta: 7.77869e-18
+phi: -5.49957e-18
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.27
+Theta: 3.60133e-14
+phi: 2.06048e-14
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.27
+Theta: 3.60133e-14
+phi: 2.06048e-14
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.27
+Theta: 3.60133e-14
+phi: 2.06048e-14
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.27
+Theta: 3.60133e-14
+phi: 2.06048e-14
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.27
+Theta: 3.60133e-14
+phi: 2.06048e-14
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.27
+Theta: 3.60133e-14
+phi: 2.06048e-14
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.27
+Theta: 3.60133e-14
+phi: 2.06048e-14
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.27
+Theta: 3.60133e-14
+phi: 2.06048e-14
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.27
+Theta: 3.60133e-14
+phi: 2.06048e-14
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6942.27
+Theta: 3.60133e-14
+phi: 2.06048e-14
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6936.8
+Theta: 7.33211e-13
+phi: -6.17588e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6936.8
+Theta: 7.33211e-13
+phi: -6.17588e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6936.8
+Theta: 7.33211e-13
+phi: -6.17588e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6936.8
+Theta: 7.33211e-13
+phi: -6.17588e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6936.8
+Theta: 7.33211e-13
+phi: -6.17588e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6936.8
+Theta: 7.33211e-13
+phi: -6.17588e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6936.8
+Theta: 7.33211e-13
+phi: -6.17588e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6936.8
+Theta: 7.33211e-13
+phi: -6.17588e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6936.8
+Theta: 7.33211e-13
+phi: -6.17588e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6936.8
+Theta: 7.33211e-13
+phi: -6.17588e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6931.14
+Theta: 1.9341e-12
+phi: -2.555e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6931.14
+Theta: 1.9341e-12
+phi: -2.555e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6931.14
+Theta: 1.9341e-12
+phi: -2.555e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6931.14
+Theta: 1.9341e-12
+phi: -2.555e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6931.14
+Theta: 1.9341e-12
+phi: -2.555e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:43 2024
+Thrust x: 6931.14
+Theta: 1.9341e-12
+phi: -2.555e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6931.14
+Theta: 1.9341e-12
+phi: -2.555e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6931.14
+Theta: 1.9341e-12
+phi: -2.555e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6931.14
+Theta: 1.9341e-12
+phi: -2.555e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6931.14
+Theta: 1.9341e-12
+phi: -2.555e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6925.73
+Theta: 1.41905e-12
+phi: -3.79746e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6925.73
+Theta: 1.41905e-12
+phi: -3.79746e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6925.73
+Theta: 1.41905e-12
+phi: -3.79746e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6925.73
+Theta: 1.41905e-12
+phi: -3.79746e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6925.73
+Theta: 1.41905e-12
+phi: -3.79746e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6925.73
+Theta: 1.41905e-12
+phi: -3.79746e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6925.73
+Theta: 1.41905e-12
+phi: -3.79746e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6925.73
+Theta: 1.41905e-12
+phi: -3.79746e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6925.73
+Theta: 1.41905e-12
+phi: -3.79746e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6925.73
+Theta: 1.41905e-12
+phi: -3.79746e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6920.65
+Theta: -1.42105e-12
+phi: -3.14817e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6920.65
+Theta: -1.42105e-12
+phi: -3.14817e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6920.65
+Theta: -1.42105e-12
+phi: -3.14817e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6920.65
+Theta: -1.42105e-12
+phi: -3.14817e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6920.65
+Theta: -1.42105e-12
+phi: -3.14817e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6920.65
+Theta: -1.42105e-12
+phi: -3.14817e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6920.65
+Theta: -1.42105e-12
+phi: -3.14817e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6920.65
+Theta: -1.42105e-12
+phi: -3.14817e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6920.65
+Theta: -1.42105e-12
+phi: -3.14817e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6920.65
+Theta: -1.42105e-12
+phi: -3.14817e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6915.97
+Theta: -5.02109e-12
+phi: 2.49725e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6915.97
+Theta: -5.02109e-12
+phi: 2.49725e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6915.97
+Theta: -5.02109e-12
+phi: 2.49725e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6915.97
+Theta: -5.02109e-12
+phi: 2.49725e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6915.97
+Theta: -5.02109e-12
+phi: 2.49725e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6915.97
+Theta: -5.02109e-12
+phi: 2.49725e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6915.97
+Theta: -5.02109e-12
+phi: 2.49725e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6915.97
+Theta: -5.02109e-12
+phi: 2.49725e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6915.97
+Theta: -5.02109e-12
+phi: 2.49725e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6915.97
+Theta: -5.02109e-12
+phi: 2.49725e-13
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6911.61
+Theta: -5.82082e-12
+phi: 5.74675e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6911.61
+Theta: -5.82082e-12
+phi: 5.74675e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6911.61
+Theta: -5.82082e-12
+phi: 5.74675e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6911.61
+Theta: -5.82082e-12
+phi: 5.74675e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:44 2024
+Thrust x: 6911.61
+Theta: -5.82082e-12
+phi: 5.74675e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6911.61
+Theta: -5.82082e-12
+phi: 5.74675e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6911.61
+Theta: -5.82082e-12
+phi: 5.74675e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6911.61
+Theta: -5.82082e-12
+phi: 5.74675e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6911.61
+Theta: -5.82082e-12
+phi: 5.74675e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6911.61
+Theta: -5.82082e-12
+phi: 5.74675e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6907.7
+Theta: -7.59505e-13
+phi: 1.01124e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6907.7
+Theta: -7.59505e-13
+phi: 1.01124e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6907.7
+Theta: -7.59505e-13
+phi: 1.01124e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6907.7
+Theta: -7.59505e-13
+phi: 1.01124e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6907.7
+Theta: -7.59505e-13
+phi: 1.01124e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6907.7
+Theta: -7.59505e-13
+phi: 1.01124e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6907.7
+Theta: -7.59505e-13
+phi: 1.01124e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6907.7
+Theta: -7.59505e-13
+phi: 1.01124e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6907.7
+Theta: -7.59505e-13
+phi: 1.01124e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6907.7
+Theta: -7.59505e-13
+phi: 1.01124e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6904.08
+Theta: 9.97595e-12
+phi: 8.65786e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6904.08
+Theta: 9.97595e-12
+phi: 8.65786e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6904.08
+Theta: 9.97595e-12
+phi: 8.65786e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6904.08
+Theta: 9.97595e-12
+phi: 8.65786e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6904.08
+Theta: 9.97595e-12
+phi: 8.65786e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6904.08
+Theta: 9.97595e-12
+phi: 8.65786e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6904.08
+Theta: 9.97595e-12
+phi: 8.65786e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6904.08
+Theta: 9.97595e-12
+phi: 8.65786e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6904.08
+Theta: 9.97595e-12
+phi: 8.65786e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6904.08
+Theta: 9.97595e-12
+phi: 8.65786e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6900.8
+Theta: 1.96538e-11
+phi: -2.75641e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6900.8
+Theta: 1.96538e-11
+phi: -2.75641e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6900.8
+Theta: 1.96538e-11
+phi: -2.75641e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6900.8
+Theta: 1.96538e-11
+phi: -2.75641e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6900.8
+Theta: 1.96538e-11
+phi: -2.75641e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6900.8
+Theta: 1.96538e-11
+phi: -2.75641e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6900.8
+Theta: 1.96538e-11
+phi: -2.75641e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6900.8
+Theta: 1.96538e-11
+phi: -2.75641e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6900.8
+Theta: 1.96538e-11
+phi: -2.75641e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6900.8
+Theta: 1.96538e-11
+phi: -2.75641e-12
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6897.72
+Theta: 1.72424e-11
+phi: -2.19806e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6897.72
+Theta: 1.72424e-11
+phi: -2.19806e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6897.72
+Theta: 1.72424e-11
+phi: -2.19806e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:45 2024
+Thrust x: 6897.72
+Theta: 1.72424e-11
+phi: -2.19806e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6897.72
+Theta: 1.72424e-11
+phi: -2.19806e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6897.72
+Theta: 1.72424e-11
+phi: -2.19806e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6897.72
+Theta: 1.72424e-11
+phi: -2.19806e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6897.72
+Theta: 1.72424e-11
+phi: -2.19806e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6897.72
+Theta: 1.72424e-11
+phi: -2.19806e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6897.72
+Theta: 1.72424e-11
+phi: -2.19806e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6894.97
+Theta: -4.73545e-12
+phi: -3.6546e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6894.97
+Theta: -4.73545e-12
+phi: -3.6546e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6894.97
+Theta: -4.73545e-12
+phi: -3.6546e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6894.97
+Theta: -4.73545e-12
+phi: -3.6546e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6894.97
+Theta: -4.73545e-12
+phi: -3.6546e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6894.97
+Theta: -4.73545e-12
+phi: -3.6546e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6894.97
+Theta: -4.73545e-12
+phi: -3.6546e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6894.97
+Theta: -4.73545e-12
+phi: -3.6546e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6894.97
+Theta: -4.73545e-12
+phi: -3.6546e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6894.97
+Theta: -4.73545e-12
+phi: -3.6546e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6892.4
+Theta: -4.25026e-11
+phi: -2.81909e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6892.4
+Theta: -4.25026e-11
+phi: -2.81909e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6892.4
+Theta: -4.25026e-11
+phi: -2.81909e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6892.4
+Theta: -4.25026e-11
+phi: -2.81909e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6892.4
+Theta: -4.25026e-11
+phi: -2.81909e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6892.4
+Theta: -4.25026e-11
+phi: -2.81909e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6892.4
+Theta: -4.25026e-11
+phi: -2.81909e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6892.4
+Theta: -4.25026e-11
+phi: -2.81909e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6892.4
+Theta: -4.25026e-11
+phi: -2.81909e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6892.4
+Theta: -4.25026e-11
+phi: -2.81909e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6890.08
+Theta: -6.98831e-11
+phi: 1.65347e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6890.08
+Theta: -6.98831e-11
+phi: 1.65347e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6890.08
+Theta: -6.98831e-11
+phi: 1.65347e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6890.08
+Theta: -6.98831e-11
+phi: 1.65347e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6890.08
+Theta: -6.98831e-11
+phi: 1.65347e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6890.08
+Theta: -6.98831e-11
+phi: 1.65347e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6890.08
+Theta: -6.98831e-11
+phi: 1.65347e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6890.08
+Theta: -6.98831e-11
+phi: 1.65347e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6890.08
+Theta: -6.98831e-11
+phi: 1.65347e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:46 2024
+Thrust x: 6890.08
+Theta: -6.98831e-11
+phi: 1.65347e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6887.95
+Theta: -4.96856e-11
+phi: 8.59741e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6887.95
+Theta: -4.96856e-11
+phi: 8.59741e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6887.95
+Theta: -4.96856e-11
+phi: 8.59741e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6887.95
+Theta: -4.96856e-11
+phi: 8.59741e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6887.95
+Theta: -4.96856e-11
+phi: 8.59741e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6887.95
+Theta: -4.96856e-11
+phi: 8.59741e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6887.95
+Theta: -4.96856e-11
+phi: 8.59741e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6887.95
+Theta: -4.96856e-11
+phi: 8.59741e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6887.95
+Theta: -4.96856e-11
+phi: 8.59741e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6887.95
+Theta: -4.96856e-11
+phi: 8.59741e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6886.04
+Theta: 3.96668e-11
+phi: 1.30469e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6886.04
+Theta: 3.96668e-11
+phi: 1.30469e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6886.04
+Theta: 3.96668e-11
+phi: 1.30469e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6886.04
+Theta: 3.96668e-11
+phi: 1.30469e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6886.04
+Theta: 3.96668e-11
+phi: 1.30469e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6886.04
+Theta: 3.96668e-11
+phi: 1.30469e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6886.04
+Theta: 3.96668e-11
+phi: 1.30469e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6886.04
+Theta: 3.96668e-11
+phi: 1.30469e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6886.04
+Theta: 3.96668e-11
+phi: 1.30469e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6886.04
+Theta: 3.96668e-11
+phi: 1.30469e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6884.27
+Theta: 1.71975e-10
+phi: 8.12164e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6884.27
+Theta: 1.71975e-10
+phi: 8.12164e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6884.27
+Theta: 1.71975e-10
+phi: 8.12164e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6884.27
+Theta: 1.71975e-10
+phi: 8.12164e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6884.27
+Theta: 1.71975e-10
+phi: 8.12164e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6884.27
+Theta: 1.71975e-10
+phi: 8.12164e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6884.27
+Theta: 1.71975e-10
+phi: 8.12164e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6884.27
+Theta: 1.71975e-10
+phi: 8.12164e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6884.27
+Theta: 1.71975e-10
+phi: 8.12164e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6884.27
+Theta: 1.71975e-10
+phi: 8.12164e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6882.69
+Theta: 2.46523e-10
+phi: -9.22823e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6882.69
+Theta: 2.46523e-10
+phi: -9.22823e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6882.69
+Theta: 2.46523e-10
+phi: -9.22823e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6882.69
+Theta: 2.46523e-10
+phi: -9.22823e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6882.69
+Theta: 2.46523e-10
+phi: -9.22823e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6882.69
+Theta: 2.46523e-10
+phi: -9.22823e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6882.69
+Theta: 2.46523e-10
+phi: -9.22823e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6882.69
+Theta: 2.46523e-10
+phi: -9.22823e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:47 2024
+Thrust x: 6882.69
+Theta: 2.46523e-10
+phi: -9.22823e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6882.69
+Theta: 2.46523e-10
+phi: -9.22823e-11
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6881.26
+Theta: 1.45734e-10
+phi: -3.34624e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6881.26
+Theta: 1.45734e-10
+phi: -3.34624e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6881.26
+Theta: 1.45734e-10
+phi: -3.34624e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6881.26
+Theta: 1.45734e-10
+phi: -3.34624e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6881.26
+Theta: 1.45734e-10
+phi: -3.34624e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6881.26
+Theta: 1.45734e-10
+phi: -3.34624e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6881.26
+Theta: 1.45734e-10
+phi: -3.34624e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6881.26
+Theta: 1.45734e-10
+phi: -3.34624e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6881.26
+Theta: 1.45734e-10
+phi: -3.34624e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6881.26
+Theta: 1.45734e-10
+phi: -3.34624e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6879.93
+Theta: -2.12878e-10
+phi: -4.64821e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6879.93
+Theta: -2.12878e-10
+phi: -4.64821e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6879.93
+Theta: -2.12878e-10
+phi: -4.64821e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6879.93
+Theta: -2.12878e-10
+phi: -4.64821e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6879.93
+Theta: -2.12878e-10
+phi: -4.64821e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6879.93
+Theta: -2.12878e-10
+phi: -4.64821e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6879.93
+Theta: -2.12878e-10
+phi: -4.64821e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6879.93
+Theta: -2.12878e-10
+phi: -4.64821e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6879.93
+Theta: -2.12878e-10
+phi: -4.64821e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6879.93
+Theta: -2.12878e-10
+phi: -4.64821e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6878.75
+Theta: -6.67417e-10
+phi: -2.27768e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6878.75
+Theta: -6.67417e-10
+phi: -2.27768e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6878.75
+Theta: -6.67417e-10
+phi: -2.27768e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6878.75
+Theta: -6.67417e-10
+phi: -2.27768e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6878.75
+Theta: -6.67417e-10
+phi: -2.27768e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6878.75
+Theta: -6.67417e-10
+phi: -2.27768e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6878.75
+Theta: -6.67417e-10
+phi: -2.27768e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6878.75
+Theta: -6.67417e-10
+phi: -2.27768e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6878.75
+Theta: -6.67417e-10
+phi: -2.27768e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6878.75
+Theta: -6.67417e-10
+phi: -2.27768e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6877.67
+Theta: -8.63122e-10
+phi: 4.6203e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6877.67
+Theta: -8.63122e-10
+phi: 4.6203e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6877.67
+Theta: -8.63122e-10
+phi: 4.6203e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6877.67
+Theta: -8.63122e-10
+phi: 4.6203e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6877.67
+Theta: -8.63122e-10
+phi: 4.6203e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6877.67
+Theta: -8.63122e-10
+phi: 4.6203e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6877.67
+Theta: -8.63122e-10
+phi: 4.6203e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6877.67
+Theta: -8.63122e-10
+phi: 4.6203e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:48 2024
+Thrust x: 6877.67
+Theta: -8.63122e-10
+phi: 4.6203e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6877.67
+Theta: -8.63122e-10
+phi: 4.6203e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6876.71
+Theta: -3.55e-10
+phi: 1.31339e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6876.71
+Theta: -3.55e-10
+phi: 1.31339e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6876.71
+Theta: -3.55e-10
+phi: 1.31339e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6876.71
+Theta: -3.55e-10
+phi: 1.31339e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6876.71
+Theta: -3.55e-10
+phi: 1.31339e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6876.71
+Theta: -3.55e-10
+phi: 1.31339e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6876.71
+Theta: -3.55e-10
+phi: 1.31339e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6876.71
+Theta: -3.55e-10
+phi: 1.31339e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6876.71
+Theta: -3.55e-10
+phi: 1.31339e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6876.71
+Theta: -3.55e-10
+phi: 1.31339e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.85
+Theta: 9.78021e-10
+phi: 1.60772e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.85
+Theta: 9.78021e-10
+phi: 1.60772e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.85
+Theta: 9.78021e-10
+phi: 1.60772e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.85
+Theta: 9.78021e-10
+phi: 1.60772e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.85
+Theta: 9.78021e-10
+phi: 1.60772e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.85
+Theta: 9.78021e-10
+phi: 1.60772e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.85
+Theta: 9.78021e-10
+phi: 1.60772e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.85
+Theta: 9.78021e-10
+phi: 1.60772e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.85
+Theta: 9.78021e-10
+phi: 1.60772e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.85
+Theta: 9.78021e-10
+phi: 1.60772e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.07
+Theta: 2.55696e-09
+phi: 5.44208e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.07
+Theta: 2.55696e-09
+phi: 5.44208e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.07
+Theta: 2.55696e-09
+phi: 5.44208e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.07
+Theta: 2.55696e-09
+phi: 5.44208e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.07
+Theta: 2.55696e-09
+phi: 5.44208e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.07
+Theta: 2.55696e-09
+phi: 5.44208e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.07
+Theta: 2.55696e-09
+phi: 5.44208e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.07
+Theta: 2.55696e-09
+phi: 5.44208e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.07
+Theta: 2.55696e-09
+phi: 5.44208e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6875.07
+Theta: 2.55696e-09
+phi: 5.44208e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6874.37
+Theta: 2.97775e-09
+phi: -2.11238e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6874.37
+Theta: 2.97775e-09
+phi: -2.11238e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6874.37
+Theta: 2.97775e-09
+phi: -2.11238e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6874.37
+Theta: 2.97775e-09
+phi: -2.11238e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6874.37
+Theta: 2.97775e-09
+phi: -2.11238e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:49 2024
+Thrust x: 6874.37
+Theta: 2.97775e-09
+phi: -2.11238e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6874.37
+Theta: 2.97775e-09
+phi: -2.11238e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6874.37
+Theta: 2.97775e-09
+phi: -2.11238e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6874.37
+Theta: 2.97775e-09
+phi: -2.11238e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6874.37
+Theta: 2.97775e-09
+phi: -2.11238e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.76
+Theta: 6.98164e-10
+phi: -4.98834e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.76
+Theta: 6.98164e-10
+phi: -4.98834e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.76
+Theta: 6.98164e-10
+phi: -4.98834e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.76
+Theta: 6.98164e-10
+phi: -4.98834e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.76
+Theta: 6.98164e-10
+phi: -4.98834e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.76
+Theta: 6.98164e-10
+phi: -4.98834e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.76
+Theta: 6.98164e-10
+phi: -4.98834e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.76
+Theta: 6.98164e-10
+phi: -4.98834e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.76
+Theta: 6.98164e-10
+phi: -4.98834e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.76
+Theta: 6.98164e-10
+phi: -4.98834e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.2
+Theta: -4.40551e-09
+phi: -5.39374e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.2
+Theta: -4.40551e-09
+phi: -5.39374e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.2
+Theta: -4.40551e-09
+phi: -5.39374e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.2
+Theta: -4.40551e-09
+phi: -5.39374e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.2
+Theta: -4.40551e-09
+phi: -5.39374e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.2
+Theta: -4.40551e-09
+phi: -5.39374e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.2
+Theta: -4.40551e-09
+phi: -5.39374e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.2
+Theta: -4.40551e-09
+phi: -5.39374e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.2
+Theta: -4.40551e-09
+phi: -5.39374e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6873.2
+Theta: -4.40551e-09
+phi: -5.39374e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.72
+Theta: -9.60824e-09
+phi: -7.92375e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.72
+Theta: -9.60824e-09
+phi: -7.92375e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.72
+Theta: -9.60824e-09
+phi: -7.92375e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.72
+Theta: -9.60824e-09
+phi: -7.92375e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.72
+Theta: -9.60824e-09
+phi: -7.92375e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.72
+Theta: -9.60824e-09
+phi: -7.92375e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.72
+Theta: -9.60824e-09
+phi: -7.92375e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.72
+Theta: -9.60824e-09
+phi: -7.92375e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.72
+Theta: -9.60824e-09
+phi: -7.92375e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.72
+Theta: -9.60824e-09
+phi: -7.92375e-10
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.29
+Theta: -9.89586e-09
+phi: 9.14935e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.29
+Theta: -9.89586e-09
+phi: 9.14935e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.29
+Theta: -9.89586e-09
+phi: 9.14935e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.29
+Theta: -9.89586e-09
+phi: 9.14935e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:50 2024
+Thrust x: 6872.29
+Theta: -9.89586e-09
+phi: 9.14935e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6872.29
+Theta: -9.89586e-09
+phi: 9.14935e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6872.29
+Theta: -9.89586e-09
+phi: 9.14935e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6872.29
+Theta: -9.89586e-09
+phi: 9.14935e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6872.29
+Theta: -9.89586e-09
+phi: 9.14935e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6872.29
+Theta: -9.89586e-09
+phi: 9.14935e-09
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.92
+Theta: 1.07623e-08
+phi: 1.75104e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.92
+Theta: 1.07623e-08
+phi: 1.75104e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.92
+Theta: 1.07623e-08
+phi: 1.75104e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.92
+Theta: 1.07623e-08
+phi: 1.75104e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.92
+Theta: 1.07623e-08
+phi: 1.75104e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.92
+Theta: 1.07623e-08
+phi: 1.75104e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.92
+Theta: 1.07623e-08
+phi: 1.75104e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.92
+Theta: 1.07623e-08
+phi: 1.75104e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.92
+Theta: 1.07623e-08
+phi: 1.75104e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.92
+Theta: 1.07623e-08
+phi: 1.75104e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.6
+Theta: -1.44915e-08
+phi: 1.57082e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.6
+Theta: -1.44915e-08
+phi: 1.57082e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.6
+Theta: -1.44915e-08
+phi: 1.57082e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.6
+Theta: -1.44915e-08
+phi: 1.57082e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.6
+Theta: -1.44915e-08
+phi: 1.57082e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.6
+Theta: -1.44915e-08
+phi: 1.57082e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.6
+Theta: -1.44915e-08
+phi: 1.57082e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.6
+Theta: -1.44915e-08
+phi: 1.57082e-08
+AttitudeControllerNode published rotorVelocities at Tue Aug 20 17:46:51 2024
+Thrust x: 6871.6
+Theta: -1.44915e-08
+phi: 1.57082e-08
