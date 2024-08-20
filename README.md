@@ -1,7 +1,7 @@
 # ROS - GAZEBO - Crazyflie2 Simulation
 
 Some Background info on this Repo:
-This repo was build on top of https://github.com/gsilano/CrazyS repo and it adds a different controller for the Crazyflie.
+This repo was build on top of https://github.com/gsilano/CrazyS repo and it adds a different controller for the Crazyflie2 (A drone model).
 The code in this Repo has less options and is more focused on essential code, so that new learners can understand easier the essentials of Controllers/Drones.
 
 
