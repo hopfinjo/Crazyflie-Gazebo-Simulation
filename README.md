@@ -1,8 +1,8 @@
-# Installation Instructions - Ubuntu 20.04 with ROS Noetic and Gazebo 11
+## Installation Instructions - Ubuntu 20.04 with ROS Noetic and Gazebo 11
 
 To use the code developed and stored in this repository some preliminary actions are needed. They are listed below.
 
-## 1. Install and initialize ROS Noetic desktop full, additional ROS packages, catkin-tools, and wstool:
+### 1. Install and initialize ROS Noetic desktop full, additional ROS packages, catkin-tools, and wstool:
 
 ```bash
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
