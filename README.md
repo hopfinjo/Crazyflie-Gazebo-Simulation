@@ -1,10 +1,11 @@
 # ROS - GAZEBO - Crazyflie2 Simulation
 
-Some background info on this Repo:
-This repo was build on top of https://github.com/gsilano/CrazyS repo and it adds a different controller for the Crazyflie2(A drone) simulation in Gazebo.
-The code in this Repo has less options and is more focused on essential code, so that new learners can understand easier the essentials of Controllers/Drones.
+This repo was build as an addition to https://github.com/gsilano/CrazyS repo and it adds a different controller for the Crazyflie2(A drone) simulation in Gazebo.
+The code in this Repo has less options and is more focused on essential code so that new learners can understand easier the essentials of Controllers/Drones.
+
 ## How to get started:
-Start by installing the gsilano repo. Instructions are copied below. Once you installed this and configured it you must download the CrazyS folder from this Repo and replace it with the CrazyS folder you cloned from the gsilano repository.
+Start by installing the gsilano repo: https://github.com/gsilano/CrazyS/tree/master. Instructions are copied below.
+Once you installed this and configured it you must download the CrazyS folder from this Repo and replace it with the CrazyS folder you cloned from the gsilano repository.
 
 ## Installation Instructions - Ubuntu 20.04 with ROS Noetic and Gazebo 11
 
@@ -50,3 +51,13 @@ $ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 $ source ~/.bashrc
 
 In the event the `cmd /opt/ros/melodic/lib/gazebo_ros/gzserver -u -e ode` appears, the solution proposed in #40 temporarily fixes the issue.
+
+
+
+### Exchange CrazyS folder from Gsilano Repo with folder from this Repo
+Download CrazyS folder from this REPO https://github.com/hopfinjo/Crazyflie-Gazebo-Simulation/edit/master
+and change it with the folder in catkin/src/CrazyS
+** Change the whole folder**
+
+I prefer to use github desktop. Clone the whole repo to your machine. Copy and paste the folder into you ubuntu environment.
+
