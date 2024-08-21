@@ -1,16 +1,16 @@
 # ROS - GAZEBO - Crazyflie2 Simulation
 
-Some Background info on this Repo:
-This repo was build on top of https://github.com/gsilano/CrazyS repo and it adds a different controller for the Crazyflie2 (A drone model).
+Some background info on this Repo:
+This repo was build on top of https://github.com/gsilano/CrazyS repo and it adds a different controller for the Crazyflie2(A drone) simulation in Gazebo.
 The code in this Repo has less options and is more focused on essential code, so that new learners can understand easier the essentials of Controllers/Drones.
 
 
 ## Installation Instructions - Ubuntu 20.04 with ROS Noetic and Gazebo 11
 
 Personally, I ran this project on my Windows machine in an Ubuntu 20.04.6 LTS app which I downloaded from the "Microsoft Store".
-This does not work in other environments. Ensure exactly needed Ubuntu is installed. 
 
 ### 1. Install and initialize ROS Noetic desktop full, additional ROS packages, catkin-tools, and wstool:
+The following installations are similar to the one on gsilano CrazyS repository, with the change to download the controller code from this repo instead.
 
 ```bash
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
