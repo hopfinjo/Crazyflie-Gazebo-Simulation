@@ -5,9 +5,10 @@ The code in this Repo has less options and is more focused on essential code so 
 
 ## How to get started:
 Start by installing the gsilano repo: https://github.com/gsilano/CrazyS/tree/master. Instructions are copied below.
-Once you installed this and configured it you must download the CrazyS folder from this Repo and replace it with the CrazyS folder you cloned from the gsilano repository.
+**Once you installed this and configured it you must download the CrazyS folder from this Repo and replace it with the CrazyS folder you cloned from the gsilano repository.**
 
 ## Installation Instructions - Ubuntu 20.04 with ROS Noetic and Gazebo 11
+
 
 To use the code developed and stored in this repository some preliminary actions are needed. They are listed below.
 
@@ -72,3 +73,21 @@ run
 roslaunch rotors_gazebo crazyflie2_maxi_v2.launch
 ```
 This launches the added controller.
+
+Some More Info:
+The controller:
+Runs on 2 different nodes, so that it can run with 2 custom frequencies. 
+In the original repository, the controller runs within the callback of the position of the drone. Hence no custom frequency can be applied. This makes the simulation faster, but harder to influence and use the controller of the drone. 
+
+
+
+The launch file is the starting point which triggers further files to be executed.
+the launch file can be found in yourmounttoubuntu20.04\catkin_ws\src\CrazyS\rotors_gazebo\launch
+The file that publishes the trajectory the drone should follow, in other words, the controller file is in this case "hovering_eight_v2.cpp" and can be found in: yourmounttoubuntu20.04\catkin_ws\src\CrazyS\rotors_gazebo\src\nodes
+
+The 2 Controller-Nodes:
+"attitude_controller_node_v2" and "position_controller_node_v2" files are located in: 
+
+"\\wsl.localhost\Ubuntu-20.04\home\maxi\Crazyflie2-ros-gazebo-simulation\catkin_ws\src\CrazyS\rotors_control\src\nodes"
+
+here you can see how the UpdateControllerFunction is triggered on a specified frequency and using messages that are send from other node in different frequency.
