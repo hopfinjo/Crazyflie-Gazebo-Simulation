@@ -74,20 +74,36 @@ roslaunch rotors_gazebo crazyflie2_maxi_v2.launch
 ```
 This launches the added controller.
 
-Some More Info:
-The controller:
-Runs on 2 different nodes, so that it can run with 2 custom frequencies. 
-In the original repository, the controller runs within the callback of the position of the drone. Hence no custom frequency can be applied. This makes the simulation faster, but harder to influence and use the controller of the drone. 
+```bash
+roslaunch rotors_gazebo crazyflie2_maxi_v2.launch
+```
 
+This launches the added controller.
 
+## Some More Info
 
-The launch file is the starting point which triggers further files to be executed.
-the launch file can be found in yourmounttoubuntu20.04\catkin_ws\src\CrazyS\rotors_gazebo\launch
-The file that publishes the trajectory the drone should follow, in other words, the controller file is in this case "hovering_eight_v2.cpp" and can be found in: yourmounttoubuntu20.04\catkin_ws\src\CrazyS\rotors_gazebo\src\nodes
+### The Controller
 
-The 2 Controller-Nodes:
-"attitude_controller_node_v2" and "position_controller_node_v2" files are located in: 
+- **Nodes and Frequencies:** The controller operates on two different nodes, allowing it to run with two custom frequencies. In the original repository, the controller runs within the callback of the drone's position, preventing the use of custom frequencies. While this approach speeds up the simulation, it makes the controller harder to influence and use effectively.
 
-"\\wsl.localhost\Ubuntu-20.04\home\maxi\Crazyflie2-ros-gazebo-simulation\catkin_ws\src\CrazyS\rotors_control\src\nodes"
+### The Launch File
 
-here you can see how the UpdateControllerFunction is triggered on a specified frequency and using messages that are send from other node in different frequency.
+- **Location:** The launch file is the starting point that triggers further files to be executed. You can find the launch file in:
+  ```
+  yourmounttoubuntu20.04/catkin_ws/src/CrazyS/rotors_gazebo/launch
+  ```
+
+- **Controller File:** The file that publishes the trajectory the drone should follow, or the controller file, in this case, is `hovering_eight_v2.cpp`. It is located in:
+  ```
+  yourmounttoubuntu20.04/catkin_ws/src/CrazyS/rotors_gazebo/src/nodes
+  ```
+
+### The Two Controller Nodes
+
+- **Files:** The two controller node files, `attitude_controller_node_v2` and `position_controller_node_v2`, are located in:
+  ```
+  \\wsl.localhost\Ubuntu-20.04\home\maxi\Crazyflie2-ros-gazebo-simulation\catkin_ws\src\CrazyS\rotors_control\src\nodes
+  ```
+
+- **Update Function:** In both controllers, the `UpdateControllerFunction` is triggered at a specified frequency, using messages sent from another node at a different frequency. This function calls the actual code that triggers the controller to manage the drone.
+
