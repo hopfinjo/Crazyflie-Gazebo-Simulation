@@ -319,11 +319,11 @@ void PositionController::XYController(double* theta_command, double* phi_command
           *phi_command = -MAX_PHI_COMMAND;
 
 
-     ROS_DEBUG("Theta_kp: %f, Theta_ki: %f", theta_command_kp, theta_command_ki_);
-     ROS_DEBUG("Phi_kp: %f, Phi_ki: %f", phi_command_kp, phi_command_ki_);
-     ROS_DEBUG("Phi_c: %f, Theta_c: %f", *phi_command, *theta_command);
-     ROS_DEBUG("E_vx: %f, E_vy: %f", e_vx, e_vy);
-     ROS_DEBUG("E_x: %f, E_y: %f", xe, ye);
+    //  ROS_DEBUG("Theta_kp: %f, Theta_ki: %f", theta_command_kp, theta_command_ki_);
+    //  ROS_DEBUG("Phi_kp: %f, Phi_ki: %f", phi_command_kp, phi_command_ki_);
+    //  ROS_DEBUG("Phi_c: %f, Theta_c: %f", *phi_command, *theta_command);
+    //  ROS_DEBUG("E_vx: %f, E_vy: %f", e_vx, e_vy);
+    //  ROS_DEBUG("E_x: %f, E_y: %f", xe, ye);
 }
 
 
@@ -389,7 +389,6 @@ void PositionController::AttitudeControllerFunction(double* p_command, double* q
 
 
 void PositionController::ErrorBodyFrame(double* xe, double* ye) const {
-    //ROS_INFO("WUHU");
     assert(xe);
     assert(ye);
 

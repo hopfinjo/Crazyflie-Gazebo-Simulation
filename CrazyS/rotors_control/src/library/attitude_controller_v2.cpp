@@ -1,3 +1,22 @@
+/*
+ * Copyright 2018 Giuseppe Silano, University of Sannio in Benevento, Italy
+ * Copyright 2018 Emanuele Aucone, University of Sannio in Benevento, Italy
+ * Copyright 2018 Benjamin Rodriguez, MIT, USA
+ * Copyright 2018 Luigi Iannelli, University of Sannio in Benevento, Italy
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+ 
 #include "rotors_control/attitude_controller_v2.h"
 #include "rotors_control/transform_datatypes.h"
 #include "rotors_control/Matrix3x3.h"
@@ -194,8 +213,6 @@ void AttitudeController::XYController(double* theta_command, double* phi_command
     u = state_.linearVelocity.x;
     v = state_.linearVelocity.y;
 
-    // u = state_.position.x;
-    // v = state_.position.y;
 
     double xe, ye;
     ErrorBodyFrame(&xe, &ye);
@@ -219,7 +236,7 @@ void AttitudeController::XYController(double* theta_command, double* phi_command
 
     // Theta command is saturated considering the aircraft physical constraints
     if(!(*theta_command < MAX_THETA_COMMAND && *theta_command > -MAX_THETA_COMMAND)){
-        // ROS_INFO("SATURATED PHISICAL CONTSTRAINTS OF AIRCRAFT THETA");
+        ROS_INFO("SATURATED PHISICAL CONTSTRAINTS OF AIRCRAFT THETA");
         if(*theta_command > MAX_THETA_COMMAND)
           *theta_command = MAX_THETA_COMMAND;
         else
@@ -233,12 +250,6 @@ void AttitudeController::XYController(double* theta_command, double* phi_command
        else
           *phi_command = -MAX_PHI_COMMAND;
 
-
-     ROS_DEBUG("Theta_kp: %f, Theta_ki: %f", theta_command_kp, theta_command_ki_);
-     ROS_DEBUG("Phi_kp: %f, Phi_ki: %f", phi_command_kp, phi_command_ki_);
-     ROS_DEBUG("Phi_c: %f, Theta_c: %f", *phi_command, *theta_command);
-     ROS_DEBUG("E_vx: %f, E_vy: %f", e_vx, e_vy);
-     ROS_DEBUG("E_x: %f, E_y: %f", xe, ye);
 }
 
 
@@ -258,8 +269,8 @@ void AttitudeController::ControlMixer(double thrust, double delta_phi, double de
     *PWM_4 = control_t_.thrust - (delta_theta/2) + (delta_phi/2) + delta_psi;
 
 
-    ROS_DEBUG("Omega: %f, Delta_theta: %f, Delta_phi: %f, delta_psi: %f", control_t_.thrust, delta_theta, delta_phi, delta_psi);
-    ROS_DEBUG("PWM1: %f, PWM2: %f, PWM3: %f, PWM4: %f", *PWM_1, *PWM_2, *PWM_3, *PWM_4);
+    // ROS_DEBUG("Omega: %f, Delta_theta: %f, Delta_phi: %f, delta_psi: %f", control_t_.thrust, delta_theta, delta_phi, delta_psi);
+    // ROS_DEBUG("PWM1: %f, PWM2: %f, PWM3: %f, PWM4: %f", *PWM_1, *PWM_2, *PWM_3, *PWM_4);
 }
 
 
@@ -314,7 +325,6 @@ void AttitudeController::ErrorBodyFrame(double* xe, double* ye) const {
 
 // Odometry values are put in the state structure. The structure contains the aircraft state
 void AttitudeController::SetSensorData() {
-    //ROS_INFO("In sensorDATA");
     
     // Only the position sensor is ideal, any virtual sensor or systems is available to get it
     state_.position.x = odometry_.position[0];

@@ -24,7 +24,6 @@
 
 #include "rotors_control/common.h"
 #include "rotors_control/attitude_controller.h"
-//#include "rotors_control/crazyflie_complementary_filter.h"
 
 namespace rotors_control {
 

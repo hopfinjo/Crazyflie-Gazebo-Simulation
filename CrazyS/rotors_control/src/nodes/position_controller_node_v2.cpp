@@ -106,15 +106,6 @@ void PositionControllerNode::MultiDofJointTrajectoryCallback(const trajectory_ms
 }
 
 
-// Function to get the current timestamp as a string
-string getCurrentTimestamp() {
-    auto now = std::chrono::system_clock::now();
-    std::time_t now_time = std::chrono::system_clock::to_time_t(now);
-    std::string time_str = std::ctime(&now_time);
-    time_str.pop_back(); // remove the newline character
-    return time_str;
-}
-
 
 void PositionControllerNode::InitializeParams() {
   ros::NodeHandle pnh("~");
@@ -190,8 +181,6 @@ void PositionControllerNode::InitializeParams() {
 
 
   //Reading the parameters come from the launch file
-  bool dataStoringActive;
-  double dataStoringTime;
   std::string user;
 
   if (pnh.getParam("user_account", user)){
@@ -207,13 +196,13 @@ void PositionControllerNode::OdometryCallback(const nav_msgs::OdometryConstPtr& 
 
   // This functions allows us to put the odometry message into the odometry variable--> _position,
   //_orientation,_velocit_body,_angular_velocity
-  //ROS_INFO("Odometrycallback in positioncontrollernode");
   EigenOdometry odometry;
   eigenOdometryFromMsg(odometry_msg, &odometry);
   position_controller_.SetCurrentStateFromOdometry(odometry);
 }
 
 void PositionControllerNode::writeToFile(const mav_msgs::RateThrust& msg) {
+  // This function is not necessary for the simulation to work.
     std::ofstream file("/home/maxi/Crazyflie2-ros-gazebo-simulation/catkin_ws/src/CrazyS/rotors_control/src/nodes/pos_contr.txt", std::ios::out | std::ios::app);
     
     time_t timestamp = std::time(nullptr);
@@ -259,9 +248,10 @@ void PositionControllerNode::UpdateController() {
 
 
       geometry_pub_.publish(test_msg);
-              // Logging the message to a file
-        // Logging the message to a file
-      writeToFile(test_msg);
+      
+      // Logging the message to a file
+      // This can be used to check frequency of messages received and or sent.
+      //writeToFile(test_msg);
 
 
    }
@@ -278,28 +268,19 @@ void PositionControllerNode::UpdateController() {
 
 int main(int argc, char** argv){
 
-  // eventually try and run a positioncontroller object and pass it to code?
-  // Positioncontroller is not initialized.
     ROS_INFO("IN MAIN");
     ros::init(argc, argv, "position_controller_node_with_stateEstimator");
 
     rotors_control::PositionControllerNode position_controller_node;
-    // rotors_control::PositionController position_controller_example;
 
     double frequency=10;
     ros::Rate rate(frequency);  // 10 Hz
-    //sampleTimefromHertz=
-
-
 
     while (ros::ok()) {
-      //ROS_INFO("P");
         position_controller_node.UpdateController();
         ros::spinOnce();
         rate.sleep();
     }
-    ROS_INFO("HEREH");
 
-
-    return 0;
+  return 0;
 }

@@ -1,4 +1,23 @@
+/*
+ * Copyright 2020 Giuseppe Silano, University of Sannio in Benevento, Italy
+ * Copyright 2018 Luigi Iannelli, University of Sannio in Benevento, Italy
+ * Copyright 2018 Emanuele Aucone, University of Sannio in Benevento, Italy
+ * Copyright 2018 Benjamin Rodriguez, MIT, USA
+ * Copyright 2020 Ria Sonecha, MIT, USA
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+ 
 #include "attitude_controller_node_v2.h"
 
 #include <ros/ros.h>
@@ -42,8 +61,7 @@ AttitudeControllerNode::AttitudeControllerNode() {
 
 void AttitudeControllerNode::MultiDofJointTrajectoryCallback(const trajectory_msgs::MultiDOFJointTrajectoryConstPtr& msg) {
   // publishes the desired point only! 
-  // Clear all pending commands.
-   //command_timer_.stop();
+  // Clear all pending commands
 
    commands_.clear();
    command_waiting_times_.clear();
@@ -207,13 +225,11 @@ void AttitudeControllerNode::UpdateController() {
 
 
     // // These two run in position_controller_node on different frequency. 
-    // // // Compute Hovering Controller
     // attitude_controller_.HoveringController(&attitude_controller_.control_t_.thrust);
-    // // // Compute XY Controller
-
-
     // attitude_controller_.XYController(&theta_command, &phi_command);
 
+    
+    
     
     // read in message that is published by position_controller_node
   
@@ -255,8 +271,8 @@ void AttitudeControllerNode::UpdateController() {
     actuator_msg->header.stamp = ros::Time::now();
     motor_velocity_reference_pub_.publish(actuator_msg);
     
-
-    writeToFile(attitude_controller_.control_t_.thrust, theta_command, phi_command);
+    // This can be used to double check the frequency and see how many msg's are written to file per second.
+    //writeToFile(attitude_controller_.control_t_.thrust, theta_command, phi_command);
 
   }
   
