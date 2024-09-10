@@ -1,5 +1,9 @@
-xy_gain_kp: {x: 3.594, y: -3.594}
-xy_gain_ki: {x: 5.72958, y: -5.72958}
+#xy_gain_kp: {x: 3.594, y: -3.594}
+xy_gain_kp: {x: 4.594, y: -4.594}
+
+
+#xy_gain_ki: {x: 5.72958, y: -5.72958}
+xy_gain_ki: {x: 6.72958, y: -6.72958}
 attitude_gain_kp: {phi: 0.0611, theta: 0.0611}
 attitude_gain_ki: {phi: 0.0349, theta: 0.0349}
 rate_gain_kp: {p: 1000, q: 1000, r: 1000}

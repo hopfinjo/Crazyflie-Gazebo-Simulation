@@ -69,11 +69,12 @@ int main(int argc, char** argv) {
 
   ros::Duration(3.0).sleep();
 
+
   // define waypoints where to fly to:
   std::vector<Eigen::Vector3d> waypoints = {
     {0.0, 0.0, 1.0},
     {0.0, 1.0, 1.0},
-
+    // {2.0, 0.0, 0.0}
   };
 
   double threshold = 0.1; // Distance threshold to consider the drone has reached the waypoint
@@ -92,8 +93,9 @@ int main(int argc, char** argv) {
 
     while (ros::ok() && !isCloseEnough(desired_position, threshold)) {
       ros::spinOnce();
+
       ROS_INFO("Current position: [x: %f, y: %f, z: %f]", current_position.x(), current_position.y(), current_position.z());
-      std::this_thread::sleep_for(std::chrono::milliseconds(150)); // Adjust the sleep duration as needed
+      std::this_thread::sleep_for(std::chrono::milliseconds(500)); // Adjust the sleep duration as needed
     }
 
     publishTrajectory(trajectory_pub, desired_position, desired_yaw);

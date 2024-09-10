@@ -11,12 +11,10 @@
 Eigen::Vector3d current_position;
 
 void odometryCallback(const nav_msgs::Odometry::ConstPtr& msg) {
-  //ROS_INFO("ABC");
   current_position.x() = msg->pose.pose.position.x;
   current_position.y() = msg->pose.pose.position.y;
   current_position.z() = msg->pose.pose.position.z;
-  // ROS_INFO("Odometry position received: [x: %f, y: %f, z: %f]",
-  //          current_position.x(), current_position.y(), current_position.z());
+
 }
 
 void publishTrajectory(const ros::Publisher& publisher, const Eigen::Vector3d& position, double yaw) {
@@ -71,12 +69,11 @@ int main(int argc, char** argv) {
 
   // define waypoints where to fly to:
   std::vector<Eigen::Vector3d> waypoints = {
-    {0.0, 0.0, 1.0},
-    {0.0, 1.0, 1.0},
-
+    {0.0, 0.0, 2.0},
+    {0.0, 15.5, 1.0},
   };
 
-  double threshold = 0.1; // Distance threshold to consider the drone has reached the waypoint
+  double threshold = 0.05; // Distance threshold to consider the drone has reached the waypoint
   double desired_yaw = 0.0;
 
   for(int i =0; i<=waypoints.size(); i++){
@@ -93,7 +90,7 @@ int main(int argc, char** argv) {
     while (ros::ok() && !isCloseEnough(desired_position, threshold)) {
       ros::spinOnce();
       ROS_INFO("Current position: [x: %f, y: %f, z: %f]", current_position.x(), current_position.y(), current_position.z());
-      std::this_thread::sleep_for(std::chrono::milliseconds(150)); // Adjust the sleep duration as needed
+      std::this_thread::sleep_for(std::chrono::milliseconds(250)); 
     }
 
     publishTrajectory(trajectory_pub, desired_position, desired_yaw);
@@ -103,7 +100,7 @@ int main(int argc, char** argv) {
     while (ros::Time::now() - start_hover < hover_duration) {
         ros::spinOnce();
         ROS_INFO("Current position during hover: [x: %f, y: %f, z: %f]", current_position.x(), current_position.y(), current_position.z());
-        std::this_thread::sleep_for(std::chrono::milliseconds(500));
+        std::this_thread::sleep_for(std::chrono::milliseconds(1000));
     }
 
     
